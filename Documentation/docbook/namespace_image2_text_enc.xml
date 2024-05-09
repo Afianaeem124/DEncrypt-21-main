@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_namespace_image2_text_enc" xml:lang="en-US">
+<title>Image2TextEnc Namespace Reference</title>
+<indexterm><primary>Image2TextEnc</primary></indexterm>
+<simplesect>
+    <title>Classes    </title>
+        <itemizedlist>
+            <listitem><para>class <link linkend="_class_image2_text_enc_1_1_ui___dialog">Ui_Dialog</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Variables    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_namespace_image2_text_enc_1ad78ce75e2da3e33ec2e5e8e5cc711aef">C</link> :\Users\nehat\Desktop\</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Variable Documentation</title>
+<anchor xml:id="_namespace_image2_text_enc_1ad78ce75e2da3e33ec2e5e8e5cc711aef"/><section>
+    <title>C</title>
+<indexterm><primary>C</primary><secondary>Image2TextEnc</secondary></indexterm>
+<indexterm><primary>Image2TextEnc</primary><secondary>C</secondary></indexterm>
+<para><computeroutput>Image2TextEnc.C :\Users\nehat\Desktop\</computeroutput></para></section>
+</section>
+</section>

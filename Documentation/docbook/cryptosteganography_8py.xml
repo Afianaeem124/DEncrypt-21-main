@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_cryptosteganography_8py" xml:lang="en-US">
+<title>cryptosteganography.py File Reference</title>
+<indexterm><primary>cryptosteganography.py</primary></indexterm>
+<simplesect>
+    <title>Classes    </title>
+        <itemizedlist>
+            <listitem><para>class <link linkend="_classcryptosteganography_1_1_crypto_steganography">cryptosteganography.CryptoSteganography</link></para>
+
+<para>Main class to handle Steganography encrypted data. </para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Namespaces    </title>
+        <itemizedlist>
+            <listitem><para>namespace <link linkend="_namespacecryptosteganography">cryptosteganography</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Variables    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_namespacecryptosteganography_1a38f20207f86c2044eb6343acaffa6fd8">cryptosteganography.C</link> :\Users\nehat\Desktop\</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+</section>

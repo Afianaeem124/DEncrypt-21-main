@@ -1,0 +1,140 @@
+\doxysection{main.\+Ui\+\_\+\+Dialog Class Reference}
+\label{classmain_1_1_ui___dialog}\index{main.Ui\_Dialog@{main.Ui\_Dialog}}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\textbf{ \+\_\+\+\_\+init\+\_\+\+\_\+} (self, \textbf{ a})
+\item 
+\textbf{ setup\+Ui} (self, Dialog)
+\item 
+\textbf{ retranslate\+Ui} (self, Dialog)
+\item 
+\textbf{ clicka} (self)
+\item 
+\textbf{ clickb} (self)
+\item 
+\textbf{ main} (self)
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\textbf{ a}
+\item 
+\textbf{ label}
+\item 
+\textbf{ push\+Button}
+\item 
+\textbf{ push\+Button\+\_\+2}
+\item 
+\textbf{ clickb}
+\item 
+\textbf{ clicka}
+\item 
+\textbf{ mainwin}
+\item 
+\textbf{ ui}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\label{classmain_1_1_ui___dialog_a7c525c8c2fbc9411ec2bd8444b820220} 
+\index{main.Ui\_Dialog@{main.Ui\_Dialog}!\_\_init\_\_@{\_\_init\_\_}}
+\index{\_\_init\_\_@{\_\_init\_\_}!main.Ui\_Dialog@{main.Ui\_Dialog}}
+\doxysubsubsection{\_\_init\_\_()}
+{\footnotesize\ttfamily main.\+Ui\+\_\+\+Dialog.\+\_\+\+\_\+init\+\_\+\+\_\+ (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{a }\end{DoxyParamCaption})}
+
+
+
+\doxysubsection{Member Function Documentation}
+\label{classmain_1_1_ui___dialog_af039f6da2fb1bb617b50e0ce1d0a292f} 
+\index{main.Ui\_Dialog@{main.Ui\_Dialog}!clicka@{clicka}}
+\index{clicka@{clicka}!main.Ui\_Dialog@{main.Ui\_Dialog}}
+\doxysubsubsection{clicka()}
+{\footnotesize\ttfamily main.\+Ui\+\_\+\+Dialog.\+clicka (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+\label{classmain_1_1_ui___dialog_ac9cdd32784421c446d760ea43e0204aa} 
+\index{main.Ui\_Dialog@{main.Ui\_Dialog}!clickb@{clickb}}
+\index{clickb@{clickb}!main.Ui\_Dialog@{main.Ui\_Dialog}}
+\doxysubsubsection{clickb()}
+{\footnotesize\ttfamily main.\+Ui\+\_\+\+Dialog.\+clickb (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+Here is the call graph for this function\+:
+% FIG 0
+\label{classmain_1_1_ui___dialog_a7b7af403e995ca070e1f550a6b4a043d} 
+\index{main.Ui\_Dialog@{main.Ui\_Dialog}!main@{main}}
+\index{main@{main}!main.Ui\_Dialog@{main.Ui\_Dialog}}
+\doxysubsubsection{main()}
+{\footnotesize\ttfamily main.\+Ui\+\_\+\+Dialog.\+main (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+Here is the call graph for this function\+:
+% FIG 1
+\label{classmain_1_1_ui___dialog_a2343cfa2a6482f319e9612486cce02c2} 
+\index{main.Ui\_Dialog@{main.Ui\_Dialog}!retranslateUi@{retranslateUi}}
+\index{retranslateUi@{retranslateUi}!main.Ui\_Dialog@{main.Ui\_Dialog}}
+\doxysubsubsection{retranslateUi()}
+{\footnotesize\ttfamily main.\+Ui\+\_\+\+Dialog.\+retranslate\+Ui (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{Dialog }\end{DoxyParamCaption})}
+
+\label{classmain_1_1_ui___dialog_a2d82bfc40a6694b1811e00173b4c44cb} 
+\index{main.Ui\_Dialog@{main.Ui\_Dialog}!setupUi@{setupUi}}
+\index{setupUi@{setupUi}!main.Ui\_Dialog@{main.Ui\_Dialog}}
+\doxysubsubsection{setupUi()}
+{\footnotesize\ttfamily main.\+Ui\+\_\+\+Dialog.\+setup\+Ui (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{Dialog }\end{DoxyParamCaption})}
+
+Here is the caller graph for this function\+:
+% FIG 2
+
+
+\doxysubsection{Member Data Documentation}
+\label{classmain_1_1_ui___dialog_a33d7926bf87224da48e21fd533f80a69} 
+\index{main.Ui\_Dialog@{main.Ui\_Dialog}!a@{a}}
+\index{a@{a}!main.Ui\_Dialog@{main.Ui\_Dialog}}
+\doxysubsubsection{a}
+{\footnotesize\ttfamily main.\+Ui\+\_\+\+Dialog.\+a}
+
+\label{classmain_1_1_ui___dialog_a3d1fe5e8623c5c5e963cda875142d645} 
+\index{main.Ui\_Dialog@{main.Ui\_Dialog}!clicka@{clicka}}
+\index{clicka@{clicka}!main.Ui\_Dialog@{main.Ui\_Dialog}}
+\doxysubsubsection{clicka}
+{\footnotesize\ttfamily main.\+Ui\+\_\+\+Dialog.\+clicka}
+
+\label{classmain_1_1_ui___dialog_aa1122a67802b77ad92319bca18aad46f} 
+\index{main.Ui\_Dialog@{main.Ui\_Dialog}!clickb@{clickb}}
+\index{clickb@{clickb}!main.Ui\_Dialog@{main.Ui\_Dialog}}
+\doxysubsubsection{clickb}
+{\footnotesize\ttfamily main.\+Ui\+\_\+\+Dialog.\+clickb}
+
+\label{classmain_1_1_ui___dialog_a8a8b2e7d4a1f30631208a411434fc0be} 
+\index{main.Ui\_Dialog@{main.Ui\_Dialog}!label@{label}}
+\index{label@{label}!main.Ui\_Dialog@{main.Ui\_Dialog}}
+\doxysubsubsection{label}
+{\footnotesize\ttfamily main.\+Ui\+\_\+\+Dialog.\+label}
+
+\label{classmain_1_1_ui___dialog_a031df8bf49ebf6b06bc000714e2ddddb} 
+\index{main.Ui\_Dialog@{main.Ui\_Dialog}!mainwin@{mainwin}}
+\index{mainwin@{mainwin}!main.Ui\_Dialog@{main.Ui\_Dialog}}
+\doxysubsubsection{mainwin}
+{\footnotesize\ttfamily main.\+Ui\+\_\+\+Dialog.\+mainwin}
+
+\label{classmain_1_1_ui___dialog_a4583aa42cd4753b5faa1e3559f3389f9} 
+\index{main.Ui\_Dialog@{main.Ui\_Dialog}!pushButton@{pushButton}}
+\index{pushButton@{pushButton}!main.Ui\_Dialog@{main.Ui\_Dialog}}
+\doxysubsubsection{pushButton}
+{\footnotesize\ttfamily main.\+Ui\+\_\+\+Dialog.\+push\+Button}
+
+\label{classmain_1_1_ui___dialog_af5359d6e4ecbabd6bb0c4c572851e617} 
+\index{main.Ui\_Dialog@{main.Ui\_Dialog}!pushButton\_2@{pushButton\_2}}
+\index{pushButton\_2@{pushButton\_2}!main.Ui\_Dialog@{main.Ui\_Dialog}}
+\doxysubsubsection{pushButton\_2}
+{\footnotesize\ttfamily main.\+Ui\+\_\+\+Dialog.\+push\+Button\+\_\+2}
+
+\label{classmain_1_1_ui___dialog_af722307866606b96e3d7fa314f02497b} 
+\index{main.Ui\_Dialog@{main.Ui\_Dialog}!ui@{ui}}
+\index{ui@{ui}!main.Ui\_Dialog@{main.Ui\_Dialog}}
+\doxysubsubsection{ui}
+{\footnotesize\ttfamily main.\+Ui\+\_\+\+Dialog.\+ui}
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+\textbf{ main.\+py}\end{DoxyCompactItemize}

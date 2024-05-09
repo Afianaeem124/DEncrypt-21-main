@@ -1,0 +1,726 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="class_text2_image_enc_1_1_ui___dialog" kind="class" language="Python" prot="public">
+    <compoundname>Text2ImageEnc::Ui_Dialog</compoundname>
+    <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a3d52f3981586d754b1514461c9fca70f" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::a</definition>
+        <argsstring></argsstring>
+        <name>a</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.a</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="17" column="1" bodyfile="Text2ImageEnc.py" bodystart="17" bodyend="-1"/>
+        <referencedby refid="classmain_1_1_ui___dialog_1ac9cdd32784421c446d760ea43e0204aa" compoundref="main_8py" startline="65" endline="75">main.Ui_Dialog.clickb</referencedby>
+        <referencedby refid="classmain_1_1_ui___dialog_1a7b7af403e995ca070e1f550a6b4a043d" compoundref="main_8py" startline="76" endline="86">main.Ui_Dialog.main</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a2f134a7575bae99f58ff75f2dc06c1c3" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::tabWidget</definition>
+        <argsstring></argsstring>
+        <name>tabWidget</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.tabWidget</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="22" column="1" bodyfile="Text2ImageEnc.py" bodystart="22" bodyend="-1"/>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1acb264898882d2ea0779bd366c2413b98" compoundref="_image2_text_enc_8py" startline="146" endline="175">Image2TextEnc.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a23be82173ef798ca26cf34a1e190d24d" compoundref="_text2_image_enc_8py" startline="149" endline="183">Text2ImageEnc.Ui_Dialog.retranslateUi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1aeea5d0efde97dbb7bcfc13bcdc08466f" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::tab</definition>
+        <argsstring></argsstring>
+        <name>tab</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.tab</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="26" column="1" bodyfile="Text2ImageEnc.py" bodystart="26" bodyend="-1"/>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1acb264898882d2ea0779bd366c2413b98" compoundref="_image2_text_enc_8py" startline="146" endline="175">Image2TextEnc.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a23be82173ef798ca26cf34a1e190d24d" compoundref="_text2_image_enc_8py" startline="149" endline="183">Text2ImageEnc.Ui_Dialog.retranslateUi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1abb7f7926aa64f56ef1fa47c61d55a291" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::pushButton</definition>
+        <argsstring></argsstring>
+        <name>pushButton</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.pushButton</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="28" column="1" bodyfile="Text2ImageEnc.py" bodystart="28" bodyend="-1"/>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1acb264898882d2ea0779bd366c2413b98" compoundref="_image2_text_enc_8py" startline="146" endline="175">Image2TextEnc.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="classmain_1_1_ui___dialog_1a2343cfa2a6482f319e9612486cce02c2" compoundref="main_8py" startline="42" endline="53">main.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="classmain_page_1_1_ui___dialog_1a565932d66139767be7b61862d0038402" compoundref="main_page_8py" startline="34" endline="42">mainPage.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a23be82173ef798ca26cf34a1e190d24d" compoundref="_text2_image_enc_8py" startline="149" endline="183">Text2ImageEnc.Ui_Dialog.retranslateUi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a94c6afdfeb816a47e975c296a3e7b21f" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::pushButton_3</definition>
+        <argsstring></argsstring>
+        <name>pushButton_3</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.pushButton_3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="40" column="1" bodyfile="Text2ImageEnc.py" bodystart="40" bodyend="-1"/>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1acb264898882d2ea0779bd366c2413b98" compoundref="_image2_text_enc_8py" startline="146" endline="175">Image2TextEnc.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a23be82173ef798ca26cf34a1e190d24d" compoundref="_text2_image_enc_8py" startline="149" endline="183">Text2ImageEnc.Ui_Dialog.retranslateUi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a1519c9a4c12d5a7d9b83c26234106f5e" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::pushButton_2</definition>
+        <argsstring></argsstring>
+        <name>pushButton_2</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.pushButton_2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="45" column="1" bodyfile="Text2ImageEnc.py" bodystart="45" bodyend="-1"/>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1ae30dd919442628021fe6aedf1bbf6114" compoundref="_image2_text_enc_8py" startline="230" endline="289">Image2TextEnc.Ui_Dialog.en</referencedby>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1a3aae9d4648f22818571952fe421fe610" compoundref="_image2_text_enc_8py" startline="301" endline="313">Image2TextEnc.Ui_Dialog.image</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a464ddb701a49e034d11564766b86585a" compoundref="_text2_image_enc_8py" startline="212" endline="252">Text2ImageEnc.Ui_Dialog.image_run</referencedby>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1acb264898882d2ea0779bd366c2413b98" compoundref="_image2_text_enc_8py" startline="146" endline="175">Image2TextEnc.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="classmain_1_1_ui___dialog_1a2343cfa2a6482f319e9612486cce02c2" compoundref="main_8py" startline="42" endline="53">main.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a23be82173ef798ca26cf34a1e190d24d" compoundref="_text2_image_enc_8py" startline="149" endline="183">Text2ImageEnc.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a6f67b86f1a1d08275dbce5a04411253f" compoundref="_text2_image_enc_8py" startline="184" endline="211">Text2ImageEnc.Ui_Dialog.run_st</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1aba2c0f3ce98f1a469e15a4b5c92f0c6a" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::lineEdit_2</definition>
+        <argsstring></argsstring>
+        <name>lineEdit_2</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.lineEdit_2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="57" column="1" bodyfile="Text2ImageEnc.py" bodystart="57" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a2b86372d954887c902550c9ad106d371" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::pushButton_4</definition>
+        <argsstring></argsstring>
+        <name>pushButton_4</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.pushButton_4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="61" column="1" bodyfile="Text2ImageEnc.py" bodystart="61" bodyend="-1"/>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1acb264898882d2ea0779bd366c2413b98" compoundref="_image2_text_enc_8py" startline="146" endline="175">Image2TextEnc.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a23be82173ef798ca26cf34a1e190d24d" compoundref="_text2_image_enc_8py" startline="149" endline="183">Text2ImageEnc.Ui_Dialog.retranslateUi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1ab9bcc223358031a56e33e47db5d4422a" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::lineEdit</definition>
+        <argsstring></argsstring>
+        <name>lineEdit</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.lineEdit</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="66" column="1" bodyfile="Text2ImageEnc.py" bodystart="66" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a1b1f6f4e70a2f883d8bb812609ea309d" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::label_6</definition>
+        <argsstring></argsstring>
+        <name>label_6</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.label_6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="70" column="1" bodyfile="Text2ImageEnc.py" bodystart="70" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1abaef625c092af1af1e9b03c770313d8e" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::tab_2</definition>
+        <argsstring></argsstring>
+        <name>tab_2</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.tab_2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="84" column="1" bodyfile="Text2ImageEnc.py" bodystart="84" bodyend="-1"/>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1acb264898882d2ea0779bd366c2413b98" compoundref="_image2_text_enc_8py" startline="146" endline="175">Image2TextEnc.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a23be82173ef798ca26cf34a1e190d24d" compoundref="_text2_image_enc_8py" startline="149" endline="183">Text2ImageEnc.Ui_Dialog.retranslateUi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a5a088e8e29af657fe85000884cf33836" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::pushButton_5</definition>
+        <argsstring></argsstring>
+        <name>pushButton_5</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.pushButton_5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="86" column="1" bodyfile="Text2ImageEnc.py" bodystart="86" bodyend="-1"/>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1acb264898882d2ea0779bd366c2413b98" compoundref="_image2_text_enc_8py" startline="146" endline="175">Image2TextEnc.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a23be82173ef798ca26cf34a1e190d24d" compoundref="_text2_image_enc_8py" startline="149" endline="183">Text2ImageEnc.Ui_Dialog.retranslateUi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a81b196353922a6fb14aaf22c562a98e3" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::lineEdit_3</definition>
+        <argsstring></argsstring>
+        <name>lineEdit_3</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.lineEdit_3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="98" column="1" bodyfile="Text2ImageEnc.py" bodystart="98" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a11faf1bf583474d29a6584329556dd40" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::pushButton_6</definition>
+        <argsstring></argsstring>
+        <name>pushButton_6</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.pushButton_6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="102" column="1" bodyfile="Text2ImageEnc.py" bodystart="102" bodyend="-1"/>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1acb264898882d2ea0779bd366c2413b98" compoundref="_image2_text_enc_8py" startline="146" endline="175">Image2TextEnc.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a23be82173ef798ca26cf34a1e190d24d" compoundref="_text2_image_enc_8py" startline="149" endline="183">Text2ImageEnc.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1a5c39d31d0194db194abe1466f7045d36" compoundref="_image2_text_enc_8py" startline="176" endline="229">Image2TextEnc.Ui_Dialog.rund</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a59ee043804b1a5da51eca875152715c5" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::pushButton_7</definition>
+        <argsstring></argsstring>
+        <name>pushButton_7</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.pushButton_7</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="114" column="1" bodyfile="Text2ImageEnc.py" bodystart="114" bodyend="-1"/>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1acb264898882d2ea0779bd366c2413b98" compoundref="_image2_text_enc_8py" startline="146" endline="175">Image2TextEnc.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a23be82173ef798ca26cf34a1e190d24d" compoundref="_text2_image_enc_8py" startline="149" endline="183">Text2ImageEnc.Ui_Dialog.retranslateUi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a7c68023ed04f50c5692ef63636bc673e" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::pushButton_8</definition>
+        <argsstring></argsstring>
+        <name>pushButton_8</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.pushButton_8</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="119" column="1" bodyfile="Text2ImageEnc.py" bodystart="119" bodyend="-1"/>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1acb264898882d2ea0779bd366c2413b98" compoundref="_image2_text_enc_8py" startline="146" endline="175">Image2TextEnc.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a23be82173ef798ca26cf34a1e190d24d" compoundref="_text2_image_enc_8py" startline="149" endline="183">Text2ImageEnc.Ui_Dialog.retranslateUi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a6b76e338237d7ceda5ac2a23d9fd2754" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::textBrowser</definition>
+        <argsstring></argsstring>
+        <name>textBrowser</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.textBrowser</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="124" column="1" bodyfile="Text2ImageEnc.py" bodystart="124" bodyend="-1"/>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a23be82173ef798ca26cf34a1e190d24d" compoundref="_text2_image_enc_8py" startline="149" endline="183">Text2ImageEnc.Ui_Dialog.retranslateUi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a36f88a82e79112f0f147ff8788fc7c46" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::label</definition>
+        <argsstring></argsstring>
+        <name>label</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.label</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="130" column="1" bodyfile="Text2ImageEnc.py" bodystart="130" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1ab0a14d07f27c4762072b1bdef7a9bd3b" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::main</definition>
+        <argsstring></argsstring>
+        <name>main</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.main</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="171" column="1" bodyfile="Text2ImageEnc.py" bodystart="171" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1ac240701bfb455cc7ad746c569b58d841" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::exit</definition>
+        <argsstring></argsstring>
+        <name>exit</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.exit</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="174" column="1" bodyfile="Text2ImageEnc.py" bodystart="174" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1ab86fc168100070ac958aae3aec30a0a9" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::image</definition>
+        <argsstring></argsstring>
+        <name>image</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.image</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="177" column="1" bodyfile="Text2ImageEnc.py" bodystart="177" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a6e5abc0b9c4b454dad091fd8043fd5fb" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::image_run</definition>
+        <argsstring></argsstring>
+        <name>image_run</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.image_run</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="178" column="1" bodyfile="Text2ImageEnc.py" bodystart="178" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a3608ff2b4d4e4ef101a9048272e436d2" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::run_st</definition>
+        <argsstring></argsstring>
+        <name>run_st</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.run_st</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="181" column="1" bodyfile="Text2ImageEnc.py" bodystart="181" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1afa12a2296b50978c138b7b900a36cf7b" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::password</definition>
+        <argsstring></argsstring>
+        <name>password</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.password</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="196" column="1" bodyfile="Text2ImageEnc.py" bodystart="196" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a990bbfb78e6481429b15cc40075692fc" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::crypto_steganography</definition>
+        <argsstring></argsstring>
+        <name>crypto_steganography</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.crypto_steganography</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="198" column="1" bodyfile="Text2ImageEnc.py" bodystart="198" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1aa4ccb14eb9b6fa6f37764283179b99d4" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::secret</definition>
+        <argsstring></argsstring>
+        <name>secret</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.secret</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="200" column="1" bodyfile="Text2ImageEnc.py" bodystart="200" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a114bb16f0206dabeff9ba9ed6a582308" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::dir</definition>
+        <argsstring></argsstring>
+        <name>dir</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.dir</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="225" column="1" bodyfile="Text2ImageEnc.py" bodystart="225" bodyend="-1"/>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1ae30dd919442628021fe6aedf1bbf6114" compoundref="_image2_text_enc_8py" startline="230" endline="289">Image2TextEnc.Ui_Dialog.en</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a4789829177b53f3de1ea2a358cbbf17e" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::text</definition>
+        <argsstring></argsstring>
+        <name>text</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.text</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="227" column="1" bodyfile="Text2ImageEnc.py" bodystart="227" bodyend="-1"/>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a464ddb701a49e034d11564766b86585a" compoundref="_text2_image_enc_8py" startline="212" endline="252">Text2ImageEnc.Ui_Dialog.image_run</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1af24a75b66cf0657022a1334b2e22a290" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::image_file</definition>
+        <argsstring></argsstring>
+        <name>image_file</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.image_file</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="255" column="1" bodyfile="Text2ImageEnc.py" bodystart="255" bodyend="-1"/>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1ae30dd919442628021fe6aedf1bbf6114" compoundref="_image2_text_enc_8py" startline="230" endline="289">Image2TextEnc.Ui_Dialog.en</referencedby>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1a3aae9d4648f22818571952fe421fe610" compoundref="_image2_text_enc_8py" startline="301" endline="313">Image2TextEnc.Ui_Dialog.image</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a464ddb701a49e034d11564766b86585a" compoundref="_text2_image_enc_8py" startline="212" endline="252">Text2ImageEnc.Ui_Dialog.image_run</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a6f67b86f1a1d08275dbce5a04411253f" compoundref="_text2_image_enc_8py" startline="184" endline="211">Text2ImageEnc.Ui_Dialog.run_st</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a00b9b0d0785dcc696c85f748276d14e6" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::mainwin</definition>
+        <argsstring></argsstring>
+        <name>mainwin</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.mainwin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="267" column="1" bodyfile="Text2ImageEnc.py" bodystart="267" bodyend="-1"/>
+        <referencedby refid="classmain_1_1_ui___dialog_1ac9cdd32784421c446d760ea43e0204aa" compoundref="main_8py" startline="65" endline="75">main.Ui_Dialog.clickb</referencedby>
+        <referencedby refid="classmain_1_1_ui___dialog_1a7b7af403e995ca070e1f550a6b4a043d" compoundref="main_8py" startline="76" endline="86">main.Ui_Dialog.main</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_text2_image_enc_1_1_ui___dialog_1a120985f8aa814c9a98cd488a6bc6e2e2" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog::ui</definition>
+        <argsstring></argsstring>
+        <name>ui</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.ui</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="268" column="1" bodyfile="Text2ImageEnc.py" bodystart="268" bodyend="-1"/>
+        <referencedby refid="classmain_1_1_ui___dialog_1ac9cdd32784421c446d760ea43e0204aa" compoundref="main_8py" startline="65" endline="75">main.Ui_Dialog.clickb</referencedby>
+        <referencedby refid="classmain_1_1_ui___dialog_1a7b7af403e995ca070e1f550a6b4a043d" compoundref="main_8py" startline="76" endline="86">main.Ui_Dialog.main</referencedby>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_text2_image_enc_1_1_ui___dialog_1af62bdde6764e173b881648cd046c0a59" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog.__init__</definition>
+        <argsstring>(self, a)</argsstring>
+        <name>__init__</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.__init__</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type><ref refid="class_text2_image_enc_1_1_ui___dialog_1a3d52f3981586d754b1514461c9fca70f" kindref="member">a</ref></type>
+          <defname>a</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="15" column="1" bodyfile="Text2ImageEnc.py" bodystart="15" bodyend="18"/>
+      </memberdef>
+      <memberdef kind="function" id="class_text2_image_enc_1_1_ui___dialog_1abf8e327c04e15638e94cae34c35b578e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog.setupUi</definition>
+        <argsstring>(self, Dialog)</argsstring>
+        <name>setupUi</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.setupUi</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type>Dialog</type>
+          <defname>Dialog</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="19" column="1" bodyfile="Text2ImageEnc.py" bodystart="19" bodyend="148"/>
+      </memberdef>
+      <memberdef kind="function" id="class_text2_image_enc_1_1_ui___dialog_1a23be82173ef798ca26cf34a1e190d24d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog.retranslateUi</definition>
+        <argsstring>(self, Dialog)</argsstring>
+        <name>retranslateUi</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.retranslateUi</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type>Dialog</type>
+          <defname>Dialog</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="149" column="1" bodyfile="Text2ImageEnc.py" bodystart="149" bodyend="183"/>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a969c157f53a8c095b03f033b5e25919c" compoundref="_image2_text_enc_8py" startline="33">Image2TextEnc.Ui_Dialog.pushButton</references>
+        <references refid="classmain_1_1_ui___dialog_1a4583aa42cd4753b5faa1e3559f3389f9" compoundref="main_8py" startline="28">main.Ui_Dialog.pushButton</references>
+        <references refid="classmain_page_1_1_ui___dialog_1a11a59f353044df95689a04ab64468b4a" compoundref="main_page_8py" startline="24">mainPage.Ui_Dialog.pushButton</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1abb7f7926aa64f56ef1fa47c61d55a291" compoundref="_text2_image_enc_8py" startline="28">Text2ImageEnc.Ui_Dialog.pushButton</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1ab198f48047154473de247ce81e0bab65" compoundref="_image2_text_enc_8py" startline="51">Image2TextEnc.Ui_Dialog.pushButton_2</references>
+        <references refid="classmain_1_1_ui___dialog_1af5359d6e4ecbabd6bb0c4c572851e617" compoundref="main_8py" startline="33">main.Ui_Dialog.pushButton_2</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a1519c9a4c12d5a7d9b83c26234106f5e" compoundref="_text2_image_enc_8py" startline="45">Text2ImageEnc.Ui_Dialog.pushButton_2</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a57bb6643829cd5d43f807fae3d63efed" compoundref="_image2_text_enc_8py" startline="45">Image2TextEnc.Ui_Dialog.pushButton_3</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a94c6afdfeb816a47e975c296a3e7b21f" compoundref="_text2_image_enc_8py" startline="40">Text2ImageEnc.Ui_Dialog.pushButton_3</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a972c4bf7280eade3cde85cafb5d64f4e" compoundref="_image2_text_enc_8py" startline="67">Image2TextEnc.Ui_Dialog.pushButton_4</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a2b86372d954887c902550c9ad106d371" compoundref="_text2_image_enc_8py" startline="61">Text2ImageEnc.Ui_Dialog.pushButton_4</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a2a8ed8b04768719273fa6310dd630c24" compoundref="_image2_text_enc_8py" startline="88">Image2TextEnc.Ui_Dialog.pushButton_5</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a5a088e8e29af657fe85000884cf33836" compoundref="_text2_image_enc_8py" startline="86">Text2ImageEnc.Ui_Dialog.pushButton_5</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a6f6124e791a02e437338c13337f1f221" compoundref="_image2_text_enc_8py" startline="104">Image2TextEnc.Ui_Dialog.pushButton_6</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a11faf1bf583474d29a6584329556dd40" compoundref="_text2_image_enc_8py" startline="102">Text2ImageEnc.Ui_Dialog.pushButton_6</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a33365230e48ca6a7f0bc77740ad8954a" compoundref="_image2_text_enc_8py" startline="116">Image2TextEnc.Ui_Dialog.pushButton_7</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a59ee043804b1a5da51eca875152715c5" compoundref="_text2_image_enc_8py" startline="114">Text2ImageEnc.Ui_Dialog.pushButton_7</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1aaf92a9cab8b17c6fa57649091c6f8445" compoundref="_image2_text_enc_8py" startline="122">Image2TextEnc.Ui_Dialog.pushButton_8</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a7c68023ed04f50c5692ef63636bc673e" compoundref="_text2_image_enc_8py" startline="119">Text2ImageEnc.Ui_Dialog.pushButton_8</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1aa86a09152912ad006519ba01471ffadc" compoundref="_image2_text_enc_8py" startline="31">Image2TextEnc.Ui_Dialog.tab</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1aeea5d0efde97dbb7bcfc13bcdc08466f" compoundref="_text2_image_enc_8py" startline="26">Text2ImageEnc.Ui_Dialog.tab</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a6316fffdf318c6825a764d7c9266d03a" compoundref="_image2_text_enc_8py" startline="86">Image2TextEnc.Ui_Dialog.tab_2</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1abaef625c092af1af1e9b03c770313d8e" compoundref="_text2_image_enc_8py" startline="84">Text2ImageEnc.Ui_Dialog.tab_2</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a2eccf52650ee416ebf66525e3bf4b0e6" compoundref="_image2_text_enc_8py" startline="28">Image2TextEnc.Ui_Dialog.tabWidget</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a2f134a7575bae99f58ff75f2dc06c1c3" compoundref="_text2_image_enc_8py" startline="22">Text2ImageEnc.Ui_Dialog.tabWidget</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a6b76e338237d7ceda5ac2a23d9fd2754" compoundref="_text2_image_enc_8py" startline="124">Text2ImageEnc.Ui_Dialog.textBrowser</references>
+      </memberdef>
+      <memberdef kind="function" id="class_text2_image_enc_1_1_ui___dialog_1a6f67b86f1a1d08275dbce5a04411253f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog.run_st</definition>
+        <argsstring>(self)</argsstring>
+        <name>run_st</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.run_st</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="184" column="1" bodyfile="Text2ImageEnc.py" bodystart="184" bodyend="211"/>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a78768e6f2a48b6b6d4717141bd9c86fd" compoundref="_image2_text_enc_8py" startline="292">Image2TextEnc.Ui_Dialog.image_file</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1af24a75b66cf0657022a1334b2e22a290" compoundref="_text2_image_enc_8py" startline="255">Text2ImageEnc.Ui_Dialog.image_file</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1ab198f48047154473de247ce81e0bab65" compoundref="_image2_text_enc_8py" startline="51">Image2TextEnc.Ui_Dialog.pushButton_2</references>
+        <references refid="classmain_1_1_ui___dialog_1af5359d6e4ecbabd6bb0c4c572851e617" compoundref="main_8py" startline="33">main.Ui_Dialog.pushButton_2</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a1519c9a4c12d5a7d9b83c26234106f5e" compoundref="_text2_image_enc_8py" startline="45">Text2ImageEnc.Ui_Dialog.pushButton_2</references>
+      </memberdef>
+      <memberdef kind="function" id="class_text2_image_enc_1_1_ui___dialog_1a464ddb701a49e034d11564766b86585a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog.image_run</definition>
+        <argsstring>(self)</argsstring>
+        <name>image_run</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.image_run</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="212" column="1" bodyfile="Text2ImageEnc.py" bodystart="212" bodyend="252"/>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a78768e6f2a48b6b6d4717141bd9c86fd" compoundref="_image2_text_enc_8py" startline="292">Image2TextEnc.Ui_Dialog.image_file</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1af24a75b66cf0657022a1334b2e22a290" compoundref="_text2_image_enc_8py" startline="255">Text2ImageEnc.Ui_Dialog.image_file</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1ab198f48047154473de247ce81e0bab65" compoundref="_image2_text_enc_8py" startline="51">Image2TextEnc.Ui_Dialog.pushButton_2</references>
+        <references refid="classmain_1_1_ui___dialog_1af5359d6e4ecbabd6bb0c4c572851e617" compoundref="main_8py" startline="33">main.Ui_Dialog.pushButton_2</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a1519c9a4c12d5a7d9b83c26234106f5e" compoundref="_text2_image_enc_8py" startline="45">Text2ImageEnc.Ui_Dialog.pushButton_2</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a4789829177b53f3de1ea2a358cbbf17e" compoundref="_text2_image_enc_8py" startline="227">Text2ImageEnc.Ui_Dialog.text</references>
+      </memberdef>
+      <memberdef kind="function" id="class_text2_image_enc_1_1_ui___dialog_1aa05cb303f3e6ab9110204fb9d761c873" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog.image</definition>
+        <argsstring>(self)</argsstring>
+        <name>image</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.image</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="253" column="1" bodyfile="Text2ImageEnc.py" bodystart="253" bodyend="264"/>
+      </memberdef>
+      <memberdef kind="function" id="class_text2_image_enc_1_1_ui___dialog_1a521067b81b25557b857627c2279fae6f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog.main</definition>
+        <argsstring>(self)</argsstring>
+        <name>main</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.main</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="265" column="1" bodyfile="Text2ImageEnc.py" bodystart="265" bodyend="276"/>
+      </memberdef>
+      <memberdef kind="function" id="class_text2_image_enc_1_1_ui___dialog_1a964050dfc34cb77814a14547851973fb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Text2ImageEnc.Ui_Dialog.exit</definition>
+        <argsstring>(self)</argsstring>
+        <name>exit</name>
+        <qualifiedname>Text2ImageEnc.Ui_Dialog.exit</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="277" column="1" bodyfile="Text2ImageEnc.py" bodystart="277" bodyend="280"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Text2ImageEnc.py" line="13" column="1" bodyfile="Text2ImageEnc.py" bodystart="13" bodyend="280"/>
+    <listofallmembers>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1af62bdde6764e173b881648cd046c0a59" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>__init__</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a3d52f3981586d754b1514461c9fca70f" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>a</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a990bbfb78e6481429b15cc40075692fc" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>crypto_steganography</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a114bb16f0206dabeff9ba9ed6a582308" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>dir</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1ac240701bfb455cc7ad746c569b58d841" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>exit</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a964050dfc34cb77814a14547851973fb" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>exit</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1ab86fc168100070ac958aae3aec30a0a9" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>image</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1aa05cb303f3e6ab9110204fb9d761c873" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>image</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1af24a75b66cf0657022a1334b2e22a290" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>image_file</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a6e5abc0b9c4b454dad091fd8043fd5fb" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>image_run</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a464ddb701a49e034d11564766b86585a" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>image_run</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a36f88a82e79112f0f147ff8788fc7c46" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>label</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a1b1f6f4e70a2f883d8bb812609ea309d" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>label_6</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1ab9bcc223358031a56e33e47db5d4422a" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>lineEdit</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1aba2c0f3ce98f1a469e15a4b5c92f0c6a" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>lineEdit_2</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a81b196353922a6fb14aaf22c562a98e3" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>lineEdit_3</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1ab0a14d07f27c4762072b1bdef7a9bd3b" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>main</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a521067b81b25557b857627c2279fae6f" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>main</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a00b9b0d0785dcc696c85f748276d14e6" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>mainwin</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1afa12a2296b50978c138b7b900a36cf7b" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>password</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1abb7f7926aa64f56ef1fa47c61d55a291" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>pushButton</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a1519c9a4c12d5a7d9b83c26234106f5e" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>pushButton_2</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a94c6afdfeb816a47e975c296a3e7b21f" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>pushButton_3</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a2b86372d954887c902550c9ad106d371" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>pushButton_4</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a5a088e8e29af657fe85000884cf33836" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>pushButton_5</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a11faf1bf583474d29a6584329556dd40" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>pushButton_6</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a59ee043804b1a5da51eca875152715c5" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>pushButton_7</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a7c68023ed04f50c5692ef63636bc673e" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>pushButton_8</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a23be82173ef798ca26cf34a1e190d24d" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>retranslateUi</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a3608ff2b4d4e4ef101a9048272e436d2" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>run_st</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a6f67b86f1a1d08275dbce5a04411253f" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>run_st</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1aa4ccb14eb9b6fa6f37764283179b99d4" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>secret</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1abf8e327c04e15638e94cae34c35b578e" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>setupUi</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1aeea5d0efde97dbb7bcfc13bcdc08466f" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>tab</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1abaef625c092af1af1e9b03c770313d8e" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>tab_2</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a2f134a7575bae99f58ff75f2dc06c1c3" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>tabWidget</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a4789829177b53f3de1ea2a358cbbf17e" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>text</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a6b76e338237d7ceda5ac2a23d9fd2754" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>textBrowser</name></member>
+      <member refid="class_text2_image_enc_1_1_ui___dialog_1a120985f8aa814c9a98cd488a6bc6e2e2" prot="public" virt="non-virtual"><scope>Text2ImageEnc::Ui_Dialog</scope><name>ui</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

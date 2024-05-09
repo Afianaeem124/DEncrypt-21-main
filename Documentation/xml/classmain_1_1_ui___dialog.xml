@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classmain_1_1_ui___dialog" kind="class" language="Python" prot="public">
+    <compoundname>main::Ui_Dialog</compoundname>
+    <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classmain_1_1_ui___dialog_1a33d7926bf87224da48e21fd533f80a69" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>main.Ui_Dialog::a</definition>
+        <argsstring></argsstring>
+        <name>a</name>
+        <qualifiedname>main.Ui_Dialog.a</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="main.py" line="16" column="1" bodyfile="main.py" bodystart="16" bodyend="-1"/>
+        <referencedby refid="classmain_1_1_ui___dialog_1ac9cdd32784421c446d760ea43e0204aa" compoundref="main_8py" startline="65" endline="75">main.Ui_Dialog.clickb</referencedby>
+        <referencedby refid="classmain_1_1_ui___dialog_1a7b7af403e995ca070e1f550a6b4a043d" compoundref="main_8py" startline="76" endline="86">main.Ui_Dialog.main</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classmain_1_1_ui___dialog_1a8a8b2e7d4a1f30631208a411434fc0be" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>main.Ui_Dialog::label</definition>
+        <argsstring></argsstring>
+        <name>label</name>
+        <qualifiedname>main.Ui_Dialog.label</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="main.py" line="22" column="1" bodyfile="main.py" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classmain_1_1_ui___dialog_1a4583aa42cd4753b5faa1e3559f3389f9" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>main.Ui_Dialog::pushButton</definition>
+        <argsstring></argsstring>
+        <name>pushButton</name>
+        <qualifiedname>main.Ui_Dialog.pushButton</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="main.py" line="28" column="1" bodyfile="main.py" bodystart="28" bodyend="-1"/>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1acb264898882d2ea0779bd366c2413b98" compoundref="_image2_text_enc_8py" startline="146" endline="175">Image2TextEnc.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="classmain_1_1_ui___dialog_1a2343cfa2a6482f319e9612486cce02c2" compoundref="main_8py" startline="42" endline="53">main.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="classmain_page_1_1_ui___dialog_1a565932d66139767be7b61862d0038402" compoundref="main_page_8py" startline="34" endline="42">mainPage.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a23be82173ef798ca26cf34a1e190d24d" compoundref="_text2_image_enc_8py" startline="149" endline="183">Text2ImageEnc.Ui_Dialog.retranslateUi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classmain_1_1_ui___dialog_1af5359d6e4ecbabd6bb0c4c572851e617" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>main.Ui_Dialog::pushButton_2</definition>
+        <argsstring></argsstring>
+        <name>pushButton_2</name>
+        <qualifiedname>main.Ui_Dialog.pushButton_2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="main.py" line="33" column="1" bodyfile="main.py" bodystart="33" bodyend="-1"/>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1ae30dd919442628021fe6aedf1bbf6114" compoundref="_image2_text_enc_8py" startline="230" endline="289">Image2TextEnc.Ui_Dialog.en</referencedby>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1a3aae9d4648f22818571952fe421fe610" compoundref="_image2_text_enc_8py" startline="301" endline="313">Image2TextEnc.Ui_Dialog.image</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a464ddb701a49e034d11564766b86585a" compoundref="_text2_image_enc_8py" startline="212" endline="252">Text2ImageEnc.Ui_Dialog.image_run</referencedby>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1acb264898882d2ea0779bd366c2413b98" compoundref="_image2_text_enc_8py" startline="146" endline="175">Image2TextEnc.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="classmain_1_1_ui___dialog_1a2343cfa2a6482f319e9612486cce02c2" compoundref="main_8py" startline="42" endline="53">main.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a23be82173ef798ca26cf34a1e190d24d" compoundref="_text2_image_enc_8py" startline="149" endline="183">Text2ImageEnc.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a6f67b86f1a1d08275dbce5a04411253f" compoundref="_text2_image_enc_8py" startline="184" endline="211">Text2ImageEnc.Ui_Dialog.run_st</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classmain_1_1_ui___dialog_1aa1122a67802b77ad92319bca18aad46f" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>main.Ui_Dialog::clickb</definition>
+        <argsstring></argsstring>
+        <name>clickb</name>
+        <qualifiedname>main.Ui_Dialog.clickb</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="main.py" line="50" column="1" bodyfile="main.py" bodystart="50" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classmain_1_1_ui___dialog_1a3d1fe5e8623c5c5e963cda875142d645" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>main.Ui_Dialog::clicka</definition>
+        <argsstring></argsstring>
+        <name>clicka</name>
+        <qualifiedname>main.Ui_Dialog.clicka</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="main.py" line="51" column="1" bodyfile="main.py" bodystart="51" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classmain_1_1_ui___dialog_1a031df8bf49ebf6b06bc000714e2ddddb" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>main.Ui_Dialog::mainwin</definition>
+        <argsstring></argsstring>
+        <name>mainwin</name>
+        <qualifiedname>main.Ui_Dialog.mainwin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="main.py" line="56" column="1" bodyfile="main.py" bodystart="56" bodyend="-1"/>
+        <referencedby refid="classmain_1_1_ui___dialog_1ac9cdd32784421c446d760ea43e0204aa" compoundref="main_8py" startline="65" endline="75">main.Ui_Dialog.clickb</referencedby>
+        <referencedby refid="classmain_1_1_ui___dialog_1a7b7af403e995ca070e1f550a6b4a043d" compoundref="main_8py" startline="76" endline="86">main.Ui_Dialog.main</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classmain_1_1_ui___dialog_1af722307866606b96e3d7fa314f02497b" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>main.Ui_Dialog::ui</definition>
+        <argsstring></argsstring>
+        <name>ui</name>
+        <qualifiedname>main.Ui_Dialog.ui</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="main.py" line="57" column="1" bodyfile="main.py" bodystart="57" bodyend="-1"/>
+        <referencedby refid="classmain_1_1_ui___dialog_1ac9cdd32784421c446d760ea43e0204aa" compoundref="main_8py" startline="65" endline="75">main.Ui_Dialog.clickb</referencedby>
+        <referencedby refid="classmain_1_1_ui___dialog_1a7b7af403e995ca070e1f550a6b4a043d" compoundref="main_8py" startline="76" endline="86">main.Ui_Dialog.main</referencedby>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classmain_1_1_ui___dialog_1a7c525c8c2fbc9411ec2bd8444b820220" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>main.Ui_Dialog.__init__</definition>
+        <argsstring>(self, a)</argsstring>
+        <name>__init__</name>
+        <qualifiedname>main.Ui_Dialog.__init__</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type><ref refid="classmain_1_1_ui___dialog_1a33d7926bf87224da48e21fd533f80a69" kindref="member">a</ref></type>
+          <defname>a</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="main.py" line="14" column="1" bodyfile="main.py" bodystart="14" bodyend="17"/>
+      </memberdef>
+      <memberdef kind="function" id="classmain_1_1_ui___dialog_1a2d82bfc40a6694b1811e00173b4c44cb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>main.Ui_Dialog.setupUi</definition>
+        <argsstring>(self, Dialog)</argsstring>
+        <name>setupUi</name>
+        <qualifiedname>main.Ui_Dialog.setupUi</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type>Dialog</type>
+          <defname>Dialog</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="main.py" line="18" column="1" bodyfile="main.py" bodystart="18" bodyend="41"/>
+        <referencedby refid="classmain_1_1_ui___dialog_1ac9cdd32784421c446d760ea43e0204aa" compoundref="main_8py" startline="65" endline="75">main.Ui_Dialog.clickb</referencedby>
+        <referencedby refid="classmain_1_1_ui___dialog_1a7b7af403e995ca070e1f550a6b4a043d" compoundref="main_8py" startline="76" endline="86">main.Ui_Dialog.main</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classmain_1_1_ui___dialog_1a2343cfa2a6482f319e9612486cce02c2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>main.Ui_Dialog.retranslateUi</definition>
+        <argsstring>(self, Dialog)</argsstring>
+        <name>retranslateUi</name>
+        <qualifiedname>main.Ui_Dialog.retranslateUi</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type>Dialog</type>
+          <defname>Dialog</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="main.py" line="42" column="1" bodyfile="main.py" bodystart="42" bodyend="53"/>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a969c157f53a8c095b03f033b5e25919c" compoundref="_image2_text_enc_8py" startline="33">Image2TextEnc.Ui_Dialog.pushButton</references>
+        <references refid="classmain_1_1_ui___dialog_1a4583aa42cd4753b5faa1e3559f3389f9" compoundref="main_8py" startline="28">main.Ui_Dialog.pushButton</references>
+        <references refid="classmain_page_1_1_ui___dialog_1a11a59f353044df95689a04ab64468b4a" compoundref="main_page_8py" startline="24">mainPage.Ui_Dialog.pushButton</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1abb7f7926aa64f56ef1fa47c61d55a291" compoundref="_text2_image_enc_8py" startline="28">Text2ImageEnc.Ui_Dialog.pushButton</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1ab198f48047154473de247ce81e0bab65" compoundref="_image2_text_enc_8py" startline="51">Image2TextEnc.Ui_Dialog.pushButton_2</references>
+        <references refid="classmain_1_1_ui___dialog_1af5359d6e4ecbabd6bb0c4c572851e617" compoundref="main_8py" startline="33">main.Ui_Dialog.pushButton_2</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a1519c9a4c12d5a7d9b83c26234106f5e" compoundref="_text2_image_enc_8py" startline="45">Text2ImageEnc.Ui_Dialog.pushButton_2</references>
+      </memberdef>
+      <memberdef kind="function" id="classmain_1_1_ui___dialog_1af039f6da2fb1bb617b50e0ce1d0a292f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>main.Ui_Dialog.clicka</definition>
+        <argsstring>(self)</argsstring>
+        <name>clicka</name>
+        <qualifiedname>main.Ui_Dialog.clicka</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="main.py" line="54" column="1" bodyfile="main.py" bodystart="54" bodyend="64"/>
+      </memberdef>
+      <memberdef kind="function" id="classmain_1_1_ui___dialog_1ac9cdd32784421c446d760ea43e0204aa" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>main.Ui_Dialog.clickb</definition>
+        <argsstring>(self)</argsstring>
+        <name>clickb</name>
+        <qualifiedname>main.Ui_Dialog.clickb</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="main.py" line="65" column="1" bodyfile="main.py" bodystart="65" bodyend="75"/>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a89eb31a1ed063b14eee0b19ce2a60cb6" compoundref="_image2_text_enc_8py" startline="23">Image2TextEnc.Ui_Dialog.a</references>
+        <references refid="classmain_1_1_ui___dialog_1a33d7926bf87224da48e21fd533f80a69" compoundref="main_8py" startline="16">main.Ui_Dialog.a</references>
+        <references refid="classmain_page_1_1_ui___dialog_1a245859fa912bb7feb133463264d74ce9" compoundref="main_page_8py" startline="13">mainPage.Ui_Dialog.a</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a3d52f3981586d754b1514461c9fca70f" compoundref="_text2_image_enc_8py" startline="17">Text2ImageEnc.Ui_Dialog.a</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a182a119a8b316878fa7dc6454c42032f" compoundref="_image2_text_enc_8py" startline="316">Image2TextEnc.Ui_Dialog.mainwin</references>
+        <references refid="classmain_1_1_ui___dialog_1a031df8bf49ebf6b06bc000714e2ddddb" compoundref="main_8py" startline="56">main.Ui_Dialog.mainwin</references>
+        <references refid="classmain_page_1_1_ui___dialog_1ac5169cb1aac510aee9e66c7fcde602af" compoundref="main_page_8py" startline="45">mainPage.Ui_Dialog.mainwin</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a00b9b0d0785dcc696c85f748276d14e6" compoundref="_text2_image_enc_8py" startline="267">Text2ImageEnc.Ui_Dialog.mainwin</references>
+        <references refid="classmain_1_1_ui___dialog_1a2d82bfc40a6694b1811e00173b4c44cb" compoundref="main_8py" startline="18" endline="41">main.Ui_Dialog.setupUi</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a265fdcbf0fdd955ea8f3e6e41ea72f55" compoundref="_image2_text_enc_8py" startline="317">Image2TextEnc.Ui_Dialog.ui</references>
+        <references refid="classmain_1_1_ui___dialog_1af722307866606b96e3d7fa314f02497b" compoundref="main_8py" startline="57">main.Ui_Dialog.ui</references>
+        <references refid="classmain_page_1_1_ui___dialog_1a93ddaf93b25e43c8c8901663feb8b65c" compoundref="main_page_8py" startline="46">mainPage.Ui_Dialog.ui</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a120985f8aa814c9a98cd488a6bc6e2e2" compoundref="_text2_image_enc_8py" startline="268">Text2ImageEnc.Ui_Dialog.ui</references>
+      </memberdef>
+      <memberdef kind="function" id="classmain_1_1_ui___dialog_1a7b7af403e995ca070e1f550a6b4a043d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>main.Ui_Dialog.main</definition>
+        <argsstring>(self)</argsstring>
+        <name>main</name>
+        <qualifiedname>main.Ui_Dialog.main</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="main.py" line="76" column="1" bodyfile="main.py" bodystart="76" bodyend="86"/>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a89eb31a1ed063b14eee0b19ce2a60cb6" compoundref="_image2_text_enc_8py" startline="23">Image2TextEnc.Ui_Dialog.a</references>
+        <references refid="classmain_1_1_ui___dialog_1a33d7926bf87224da48e21fd533f80a69" compoundref="main_8py" startline="16">main.Ui_Dialog.a</references>
+        <references refid="classmain_page_1_1_ui___dialog_1a245859fa912bb7feb133463264d74ce9" compoundref="main_page_8py" startline="13">mainPage.Ui_Dialog.a</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a3d52f3981586d754b1514461c9fca70f" compoundref="_text2_image_enc_8py" startline="17">Text2ImageEnc.Ui_Dialog.a</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a182a119a8b316878fa7dc6454c42032f" compoundref="_image2_text_enc_8py" startline="316">Image2TextEnc.Ui_Dialog.mainwin</references>
+        <references refid="classmain_1_1_ui___dialog_1a031df8bf49ebf6b06bc000714e2ddddb" compoundref="main_8py" startline="56">main.Ui_Dialog.mainwin</references>
+        <references refid="classmain_page_1_1_ui___dialog_1ac5169cb1aac510aee9e66c7fcde602af" compoundref="main_page_8py" startline="45">mainPage.Ui_Dialog.mainwin</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a00b9b0d0785dcc696c85f748276d14e6" compoundref="_text2_image_enc_8py" startline="267">Text2ImageEnc.Ui_Dialog.mainwin</references>
+        <references refid="classmain_1_1_ui___dialog_1a2d82bfc40a6694b1811e00173b4c44cb" compoundref="main_8py" startline="18" endline="41">main.Ui_Dialog.setupUi</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a265fdcbf0fdd955ea8f3e6e41ea72f55" compoundref="_image2_text_enc_8py" startline="317">Image2TextEnc.Ui_Dialog.ui</references>
+        <references refid="classmain_1_1_ui___dialog_1af722307866606b96e3d7fa314f02497b" compoundref="main_8py" startline="57">main.Ui_Dialog.ui</references>
+        <references refid="classmain_page_1_1_ui___dialog_1a93ddaf93b25e43c8c8901663feb8b65c" compoundref="main_page_8py" startline="46">mainPage.Ui_Dialog.ui</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1a120985f8aa814c9a98cd488a6bc6e2e2" compoundref="_text2_image_enc_8py" startline="268">Text2ImageEnc.Ui_Dialog.ui</references>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="main.py" line="12" column="1" bodyfile="main.py" bodystart="12" bodyend="86"/>
+    <listofallmembers>
+      <member refid="classmain_1_1_ui___dialog_1a7c525c8c2fbc9411ec2bd8444b820220" prot="public" virt="non-virtual"><scope>main::Ui_Dialog</scope><name>__init__</name></member>
+      <member refid="classmain_1_1_ui___dialog_1a33d7926bf87224da48e21fd533f80a69" prot="public" virt="non-virtual"><scope>main::Ui_Dialog</scope><name>a</name></member>
+      <member refid="classmain_1_1_ui___dialog_1a3d1fe5e8623c5c5e963cda875142d645" prot="public" virt="non-virtual"><scope>main::Ui_Dialog</scope><name>clicka</name></member>
+      <member refid="classmain_1_1_ui___dialog_1af039f6da2fb1bb617b50e0ce1d0a292f" prot="public" virt="non-virtual"><scope>main::Ui_Dialog</scope><name>clicka</name></member>
+      <member refid="classmain_1_1_ui___dialog_1aa1122a67802b77ad92319bca18aad46f" prot="public" virt="non-virtual"><scope>main::Ui_Dialog</scope><name>clickb</name></member>
+      <member refid="classmain_1_1_ui___dialog_1ac9cdd32784421c446d760ea43e0204aa" prot="public" virt="non-virtual"><scope>main::Ui_Dialog</scope><name>clickb</name></member>
+      <member refid="classmain_1_1_ui___dialog_1a8a8b2e7d4a1f30631208a411434fc0be" prot="public" virt="non-virtual"><scope>main::Ui_Dialog</scope><name>label</name></member>
+      <member refid="classmain_1_1_ui___dialog_1a7b7af403e995ca070e1f550a6b4a043d" prot="public" virt="non-virtual"><scope>main::Ui_Dialog</scope><name>main</name></member>
+      <member refid="classmain_1_1_ui___dialog_1a031df8bf49ebf6b06bc000714e2ddddb" prot="public" virt="non-virtual"><scope>main::Ui_Dialog</scope><name>mainwin</name></member>
+      <member refid="classmain_1_1_ui___dialog_1a4583aa42cd4753b5faa1e3559f3389f9" prot="public" virt="non-virtual"><scope>main::Ui_Dialog</scope><name>pushButton</name></member>
+      <member refid="classmain_1_1_ui___dialog_1af5359d6e4ecbabd6bb0c4c572851e617" prot="public" virt="non-virtual"><scope>main::Ui_Dialog</scope><name>pushButton_2</name></member>
+      <member refid="classmain_1_1_ui___dialog_1a2343cfa2a6482f319e9612486cce02c2" prot="public" virt="non-virtual"><scope>main::Ui_Dialog</scope><name>retranslateUi</name></member>
+      <member refid="classmain_1_1_ui___dialog_1a2d82bfc40a6694b1811e00173b4c44cb" prot="public" virt="non-virtual"><scope>main::Ui_Dialog</scope><name>setupUi</name></member>
+      <member refid="classmain_1_1_ui___dialog_1af722307866606b96e3d7fa314f02497b" prot="public" virt="non-virtual"><scope>main::Ui_Dialog</scope><name>ui</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

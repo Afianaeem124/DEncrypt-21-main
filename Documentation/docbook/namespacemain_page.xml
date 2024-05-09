@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_namespacemain_page" xml:lang="en-US">
+<title>mainPage Namespace Reference</title>
+<indexterm><primary>mainPage</primary></indexterm>
+<simplesect>
+    <title>Classes    </title>
+        <itemizedlist>
+            <listitem><para>class <link linkend="_classmain_page_1_1_ui___dialog">Ui_Dialog</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_namespacemain_page_1ad7a960bd550b92350b6620939a091758">init</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Variables    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_namespacemain_page_1a59c528ccbfa1cafee83e74ff92a8e655">C</link> :\Users\nehat\Desktop\</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Function Documentation</title>
+<anchor xml:id="_namespacemain_page_1ad7a960bd550b92350b6620939a091758"/><section>
+    <title>init()</title>
+<indexterm><primary>init</primary><secondary>mainPage</secondary></indexterm>
+<indexterm><primary>mainPage</primary><secondary>init</secondary></indexterm>
+<para><computeroutput>mainPage.init ( )</computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="namespacemain_page_ad7a960bd550b92350b6620939a091758_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="namespacemain_page_ad7a960bd550b92350b6620939a091758_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+</section>
+<section>
+<title>Variable Documentation</title>
+<anchor xml:id="_namespacemain_page_1a59c528ccbfa1cafee83e74ff92a8e655"/><section>
+    <title>C</title>
+<indexterm><primary>C</primary><secondary>mainPage</secondary></indexterm>
+<indexterm><primary>mainPage</primary><secondary>C</secondary></indexterm>
+<para><computeroutput>mainPage.C :\Users\nehat\Desktop\</computeroutput></para></section>
+</section>
+</section>

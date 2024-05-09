@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcryptosteganography_1_1_crypto_steganography" xml:lang="en-US">
+<title>cryptosteganography.CryptoSteganography Class Reference</title>
+<indexterm><primary>cryptosteganography.CryptoSteganography</primary></indexterm>
+<para>
+
+<para>Main class to handle Steganography encrypted data. </para>
+ 
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classcryptosteganography_1_1_crypto_steganography_1ad51874f41e9a93c65d37e98a2c95523e">__init__</link> (self, <link linkend="_classcryptosteganography_1_1_crypto_steganography_1acc6959cbd9586e95137b0a5f50d0bcfa">key</link>)</para>
+
+<para>Constructor. </para>
+</listitem>
+            <listitem><para><link linkend="_classcryptosteganography_1_1_crypto_steganography_1a70c1dfcaaf5d9e7bd844644750ea77a1">hide</link> (self, input_filename, output_filename, data)</para>
+
+<para>Encrypt and save the data inside the image. </para>
+</listitem>
+            <listitem><para><link linkend="_classcryptosteganography_1_1_crypto_steganography_1a04431e2e2e63aa383b55686404ce20f2">retrieve</link> (self, input_image_file)</para>
+
+<para>Retrieve the encrypted data from the image. </para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classcryptosteganography_1_1_crypto_steganography_1a82e227a4c9aaba03c0f92cf9f330d55e">block_size</link></para>
+</listitem>
+            <listitem><para><link linkend="_classcryptosteganography_1_1_crypto_steganography_1acc6959cbd9586e95137b0a5f50d0bcfa">key</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+
+<para>Main class to handle Steganography encrypted data. </para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classcryptosteganography_1_1_crypto_steganography_1ad51874f41e9a93c65d37e98a2c95523e"/><section>
+    <title>__init__()</title>
+<indexterm><primary>__init__</primary><secondary>cryptosteganography.CryptoSteganography</secondary></indexterm>
+<indexterm><primary>cryptosteganography.CryptoSteganography</primary><secondary>__init__</secondary></indexterm>
+<para><computeroutput>cryptosteganography.CryptoSteganography.__init__ ( self,  key)</computeroutput></para><para>
+
+<para>Constructor. </para>
+</para>
+
+<para>
+                <formalpara>
+                    <title>
+Parameters</title>
+                    <para>
+                    <table frame="all">
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+<entry>key</entry><entry>
+<para>string that used to derive the key </para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                    </para>
+                </formalpara>
+                </para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcryptosteganography_1_1_crypto_steganography_1a70c1dfcaaf5d9e7bd844644750ea77a1"/><section>
+    <title>hide()</title>
+<indexterm><primary>hide</primary><secondary>cryptosteganography.CryptoSteganography</secondary></indexterm>
+<indexterm><primary>cryptosteganography.CryptoSteganography</primary><secondary>hide</secondary></indexterm>
+<para><computeroutput>cryptosteganography.CryptoSteganography.hide ( self,  input_filename,  output_filename,  data)</computeroutput></para><para>
+
+<para>Encrypt and save the data inside the image. </para>
+</para>
+
+<para>
+                <formalpara>
+                    <title>
+Parameters</title>
+                    <para>
+                    <table frame="all">
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+<entry>input_filename</entry><entry>
+<para>Input image file path </para>
+</entry>
+                            </row>
+                            <row>
+<entry>output_filename</entry><entry>
+<para>Output image file path </para>
+</entry>
+                            </row>
+                            <row>
+<entry>data</entry><entry>
+<para>Information to be encrypted and saved :return: </para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                    </para>
+                </formalpara>
+                </para>
+</section>
+<anchor xml:id="_classcryptosteganography_1_1_crypto_steganography_1a04431e2e2e63aa383b55686404ce20f2"/><section>
+    <title>retrieve()</title>
+<indexterm><primary>retrieve</primary><secondary>cryptosteganography.CryptoSteganography</secondary></indexterm>
+<indexterm><primary>cryptosteganography.CryptoSteganography</primary><secondary>retrieve</secondary></indexterm>
+<para><computeroutput>cryptosteganography.CryptoSteganography.retrieve ( self,  input_image_file)</computeroutput></para><para>
+
+<para>Retrieve the encrypted data from the image. </para>
+</para>
+
+<para>
+                <formalpara>
+                    <title>
+Parameters</title>
+                    <para>
+                    <table frame="all">
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+<entry>input_image_file</entry><entry>
+<para>Input image file path :return: </para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                    </para>
+                </formalpara>
+                </para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classcryptosteganography_1_1_crypto_steganography_1a82e227a4c9aaba03c0f92cf9f330d55e"/><section>
+    <title>block_size</title>
+<indexterm><primary>block_size</primary><secondary>cryptosteganography.CryptoSteganography</secondary></indexterm>
+<indexterm><primary>cryptosteganography.CryptoSteganography</primary><secondary>block_size</secondary></indexterm>
+<para><computeroutput>cryptosteganography.CryptoSteganography.block_size</computeroutput></para></section>
+<anchor xml:id="_classcryptosteganography_1_1_crypto_steganography_1acc6959cbd9586e95137b0a5f50d0bcfa"/><section>
+    <title>key</title>
+<indexterm><primary>key</primary><secondary>cryptosteganography.CryptoSteganography</secondary></indexterm>
+<indexterm><primary>cryptosteganography.CryptoSteganography</primary><secondary>key</secondary></indexterm>
+<para><computeroutput>cryptosteganography.CryptoSteganography.key</computeroutput></para></section>
+<para>
+The documentation for this class was generated from the following file:</para>
+<link linkend="_cryptosteganography_8py">cryptosteganography.py</link></section>
+</section>

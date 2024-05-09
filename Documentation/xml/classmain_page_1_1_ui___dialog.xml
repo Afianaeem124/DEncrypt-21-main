@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classmain_page_1_1_ui___dialog" kind="class" language="Python" prot="public">
+    <compoundname>mainPage::Ui_Dialog</compoundname>
+    <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classmain_page_1_1_ui___dialog_1a245859fa912bb7feb133463264d74ce9" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>mainPage.Ui_Dialog::a</definition>
+        <argsstring></argsstring>
+        <name>a</name>
+        <qualifiedname>mainPage.Ui_Dialog.a</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="mainPage.py" line="13" column="1" bodyfile="mainPage.py" bodystart="13" bodyend="-1"/>
+        <referencedby refid="classmain_1_1_ui___dialog_1ac9cdd32784421c446d760ea43e0204aa" compoundref="main_8py" startline="65" endline="75">main.Ui_Dialog.clickb</referencedby>
+        <referencedby refid="classmain_1_1_ui___dialog_1a7b7af403e995ca070e1f550a6b4a043d" compoundref="main_8py" startline="76" endline="86">main.Ui_Dialog.main</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classmain_page_1_1_ui___dialog_1a6224a0c3506e2d4926f08842b882122c" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>mainPage.Ui_Dialog::label</definition>
+        <argsstring></argsstring>
+        <name>label</name>
+        <qualifiedname>mainPage.Ui_Dialog.label</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="mainPage.py" line="18" column="1" bodyfile="mainPage.py" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classmain_page_1_1_ui___dialog_1a11a59f353044df95689a04ab64468b4a" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>mainPage.Ui_Dialog::pushButton</definition>
+        <argsstring></argsstring>
+        <name>pushButton</name>
+        <qualifiedname>mainPage.Ui_Dialog.pushButton</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="mainPage.py" line="24" column="1" bodyfile="mainPage.py" bodystart="24" bodyend="-1"/>
+        <referencedby refid="class_image2_text_enc_1_1_ui___dialog_1acb264898882d2ea0779bd366c2413b98" compoundref="_image2_text_enc_8py" startline="146" endline="175">Image2TextEnc.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="classmain_1_1_ui___dialog_1a2343cfa2a6482f319e9612486cce02c2" compoundref="main_8py" startline="42" endline="53">main.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="classmain_page_1_1_ui___dialog_1a565932d66139767be7b61862d0038402" compoundref="main_page_8py" startline="34" endline="42">mainPage.Ui_Dialog.retranslateUi</referencedby>
+        <referencedby refid="class_text2_image_enc_1_1_ui___dialog_1a23be82173ef798ca26cf34a1e190d24d" compoundref="_text2_image_enc_8py" startline="149" endline="183">Text2ImageEnc.Ui_Dialog.retranslateUi</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classmain_page_1_1_ui___dialog_1ab205b7cb3c743b75696e96f0a557855b" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>mainPage.Ui_Dialog::main</definition>
+        <argsstring></argsstring>
+        <name>main</name>
+        <qualifiedname>mainPage.Ui_Dialog.main</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="mainPage.py" line="41" column="1" bodyfile="mainPage.py" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classmain_page_1_1_ui___dialog_1ac5169cb1aac510aee9e66c7fcde602af" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>mainPage.Ui_Dialog::mainwin</definition>
+        <argsstring></argsstring>
+        <name>mainwin</name>
+        <qualifiedname>mainPage.Ui_Dialog.mainwin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="mainPage.py" line="45" column="1" bodyfile="mainPage.py" bodystart="45" bodyend="-1"/>
+        <referencedby refid="classmain_1_1_ui___dialog_1ac9cdd32784421c446d760ea43e0204aa" compoundref="main_8py" startline="65" endline="75">main.Ui_Dialog.clickb</referencedby>
+        <referencedby refid="classmain_1_1_ui___dialog_1a7b7af403e995ca070e1f550a6b4a043d" compoundref="main_8py" startline="76" endline="86">main.Ui_Dialog.main</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classmain_page_1_1_ui___dialog_1a93ddaf93b25e43c8c8901663feb8b65c" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>mainPage.Ui_Dialog::ui</definition>
+        <argsstring></argsstring>
+        <name>ui</name>
+        <qualifiedname>mainPage.Ui_Dialog.ui</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="mainPage.py" line="46" column="1" bodyfile="mainPage.py" bodystart="46" bodyend="-1"/>
+        <referencedby refid="classmain_1_1_ui___dialog_1ac9cdd32784421c446d760ea43e0204aa" compoundref="main_8py" startline="65" endline="75">main.Ui_Dialog.clickb</referencedby>
+        <referencedby refid="classmain_1_1_ui___dialog_1a7b7af403e995ca070e1f550a6b4a043d" compoundref="main_8py" startline="76" endline="86">main.Ui_Dialog.main</referencedby>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classmain_page_1_1_ui___dialog_1a2216f4e1360d6b4c40ad7bc791db09f8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>mainPage.Ui_Dialog.__init__</definition>
+        <argsstring>(self, a)</argsstring>
+        <name>__init__</name>
+        <qualifiedname>mainPage.Ui_Dialog.__init__</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type><ref refid="classmain_page_1_1_ui___dialog_1a245859fa912bb7feb133463264d74ce9" kindref="member">a</ref></type>
+          <defname>a</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="mainPage.py" line="11" column="1" bodyfile="mainPage.py" bodystart="11" bodyend="13"/>
+      </memberdef>
+      <memberdef kind="function" id="classmain_page_1_1_ui___dialog_1a3f92ed0c6dd8b08fc699730b90b717da" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>mainPage.Ui_Dialog.setupUi</definition>
+        <argsstring>(self, Dialog)</argsstring>
+        <name>setupUi</name>
+        <qualifiedname>mainPage.Ui_Dialog.setupUi</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type>Dialog</type>
+          <defname>Dialog</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="mainPage.py" line="14" column="1" bodyfile="mainPage.py" bodystart="14" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classmain_page_1_1_ui___dialog_1a565932d66139767be7b61862d0038402" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>mainPage.Ui_Dialog.retranslateUi</definition>
+        <argsstring>(self, Dialog)</argsstring>
+        <name>retranslateUi</name>
+        <qualifiedname>mainPage.Ui_Dialog.retranslateUi</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type>Dialog</type>
+          <defname>Dialog</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="mainPage.py" line="34" column="1" bodyfile="mainPage.py" bodystart="34" bodyend="42"/>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a969c157f53a8c095b03f033b5e25919c" compoundref="_image2_text_enc_8py" startline="33">Image2TextEnc.Ui_Dialog.pushButton</references>
+        <references refid="classmain_1_1_ui___dialog_1a4583aa42cd4753b5faa1e3559f3389f9" compoundref="main_8py" startline="28">main.Ui_Dialog.pushButton</references>
+        <references refid="classmain_page_1_1_ui___dialog_1a11a59f353044df95689a04ab64468b4a" compoundref="main_page_8py" startline="24">mainPage.Ui_Dialog.pushButton</references>
+        <references refid="class_text2_image_enc_1_1_ui___dialog_1abb7f7926aa64f56ef1fa47c61d55a291" compoundref="_text2_image_enc_8py" startline="28">Text2ImageEnc.Ui_Dialog.pushButton</references>
+      </memberdef>
+      <memberdef kind="function" id="classmain_page_1_1_ui___dialog_1a4c5e1bed704bf2257319ae7a0248bedb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>mainPage.Ui_Dialog.main</definition>
+        <argsstring>(self)</argsstring>
+        <name>main</name>
+        <qualifiedname>mainPage.Ui_Dialog.main</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="mainPage.py" line="43" column="1" bodyfile="mainPage.py" bodystart="43" bodyend="53"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="mainPage.py" line="9" column="1" bodyfile="mainPage.py" bodystart="9" bodyend="53"/>
+    <listofallmembers>
+      <member refid="classmain_page_1_1_ui___dialog_1a2216f4e1360d6b4c40ad7bc791db09f8" prot="public" virt="non-virtual"><scope>mainPage::Ui_Dialog</scope><name>__init__</name></member>
+      <member refid="classmain_page_1_1_ui___dialog_1a245859fa912bb7feb133463264d74ce9" prot="public" virt="non-virtual"><scope>mainPage::Ui_Dialog</scope><name>a</name></member>
+      <member refid="classmain_page_1_1_ui___dialog_1a6224a0c3506e2d4926f08842b882122c" prot="public" virt="non-virtual"><scope>mainPage::Ui_Dialog</scope><name>label</name></member>
+      <member refid="classmain_page_1_1_ui___dialog_1ab205b7cb3c743b75696e96f0a557855b" prot="public" virt="non-virtual"><scope>mainPage::Ui_Dialog</scope><name>main</name></member>
+      <member refid="classmain_page_1_1_ui___dialog_1a4c5e1bed704bf2257319ae7a0248bedb" prot="public" virt="non-virtual"><scope>mainPage::Ui_Dialog</scope><name>main</name></member>
+      <member refid="classmain_page_1_1_ui___dialog_1ac5169cb1aac510aee9e66c7fcde602af" prot="public" virt="non-virtual"><scope>mainPage::Ui_Dialog</scope><name>mainwin</name></member>
+      <member refid="classmain_page_1_1_ui___dialog_1a11a59f353044df95689a04ab64468b4a" prot="public" virt="non-virtual"><scope>mainPage::Ui_Dialog</scope><name>pushButton</name></member>
+      <member refid="classmain_page_1_1_ui___dialog_1a565932d66139767be7b61862d0038402" prot="public" virt="non-virtual"><scope>mainPage::Ui_Dialog</scope><name>retranslateUi</name></member>
+      <member refid="classmain_page_1_1_ui___dialog_1a3f92ed0c6dd8b08fc699730b90b717da" prot="public" virt="non-virtual"><scope>mainPage::Ui_Dialog</scope><name>setupUi</name></member>
+      <member refid="classmain_page_1_1_ui___dialog_1a93ddaf93b25e43c8c8901663feb8b65c" prot="public" virt="non-virtual"><scope>mainPage::Ui_Dialog</scope><name>ui</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

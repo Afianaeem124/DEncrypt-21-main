@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="namespacecryptosteganography" kind="namespace" language="Python">
+    <compoundname>cryptosteganography</compoundname>
+    <innerclass refid="classcryptosteganography_1_1_crypto_steganography" prot="public">cryptosteganography::CryptoSteganography</innerclass>
+    <sectiondef kind="var">
+      <memberdef kind="variable" id="namespacecryptosteganography_1a38f20207f86c2044eb6343acaffa6fd8" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>cryptosteganography.C</definition>
+        <argsstring></argsstring>
+        <name>C</name>
+        <qualifiedname>cryptosteganography.C</qualifiedname>
+        <initializer>:\Users\nehat\Desktop\</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="cryptosteganography.py" line="2" column="1" bodyfile="cryptosteganography.py" bodystart="2" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="namespacecryptosteganography_1a180af5b07a72dd591232baa833790b27" prot="private" static="no" mutable="no">
+        <type>str</type>
+        <definition>str cryptosteganography.__author__</definition>
+        <argsstring></argsstring>
+        <name>__author__</name>
+        <qualifiedname>cryptosteganography.__author__</qualifiedname>
+        <initializer>=  &apos;computationalcore@gmail.com&apos;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="cryptosteganography.py" line="11" column="1" bodyfile="cryptosteganography.py" bodystart="11" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="cryptosteganography.py" line="1" column="1"/>
+  </compounddef>
+</doxygen>

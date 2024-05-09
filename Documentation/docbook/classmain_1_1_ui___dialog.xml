@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classmain_1_1_ui___dialog" xml:lang="en-US">
+<title>main.Ui_Dialog Class Reference</title>
+<indexterm><primary>main.Ui_Dialog</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classmain_1_1_ui___dialog_1a7c525c8c2fbc9411ec2bd8444b820220">__init__</link> (self, <link linkend="_classmain_1_1_ui___dialog_1a33d7926bf87224da48e21fd533f80a69">a</link>)</para>
+</listitem>
+            <listitem><para><link linkend="_classmain_1_1_ui___dialog_1a2d82bfc40a6694b1811e00173b4c44cb">setupUi</link> (self, Dialog)</para>
+</listitem>
+            <listitem><para><link linkend="_classmain_1_1_ui___dialog_1a2343cfa2a6482f319e9612486cce02c2">retranslateUi</link> (self, Dialog)</para>
+</listitem>
+            <listitem><para><link linkend="_classmain_1_1_ui___dialog_1af039f6da2fb1bb617b50e0ce1d0a292f">clicka</link> (self)</para>
+</listitem>
+            <listitem><para><link linkend="_classmain_1_1_ui___dialog_1ac9cdd32784421c446d760ea43e0204aa">clickb</link> (self)</para>
+</listitem>
+            <listitem><para><link linkend="_classmain_1_1_ui___dialog_1a7b7af403e995ca070e1f550a6b4a043d">main</link> (self)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classmain_1_1_ui___dialog_1a33d7926bf87224da48e21fd533f80a69">a</link></para>
+</listitem>
+            <listitem><para><link linkend="_classmain_1_1_ui___dialog_1a8a8b2e7d4a1f30631208a411434fc0be">label</link></para>
+</listitem>
+            <listitem><para><link linkend="_classmain_1_1_ui___dialog_1a4583aa42cd4753b5faa1e3559f3389f9">pushButton</link></para>
+</listitem>
+            <listitem><para><link linkend="_classmain_1_1_ui___dialog_1af5359d6e4ecbabd6bb0c4c572851e617">pushButton_2</link></para>
+</listitem>
+            <listitem><para><link linkend="_classmain_1_1_ui___dialog_1aa1122a67802b77ad92319bca18aad46f">clickb</link></para>
+</listitem>
+            <listitem><para><link linkend="_classmain_1_1_ui___dialog_1a3d1fe5e8623c5c5e963cda875142d645">clicka</link></para>
+</listitem>
+            <listitem><para><link linkend="_classmain_1_1_ui___dialog_1a031df8bf49ebf6b06bc000714e2ddddb">mainwin</link></para>
+</listitem>
+            <listitem><para><link linkend="_classmain_1_1_ui___dialog_1af722307866606b96e3d7fa314f02497b">ui</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classmain_1_1_ui___dialog_1a7c525c8c2fbc9411ec2bd8444b820220"/><section>
+    <title>__init__()</title>
+<indexterm><primary>__init__</primary><secondary>main.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>main.Ui_Dialog</primary><secondary>__init__</secondary></indexterm>
+<para><computeroutput>main.Ui_Dialog.__init__ ( self,  a)</computeroutput></para></section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classmain_1_1_ui___dialog_1af039f6da2fb1bb617b50e0ce1d0a292f"/><section>
+    <title>clicka()</title>
+<indexterm><primary>clicka</primary><secondary>main.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>main.Ui_Dialog</primary><secondary>clicka</secondary></indexterm>
+<para><computeroutput>main.Ui_Dialog.clicka ( self)</computeroutput></para></section>
+<anchor xml:id="_classmain_1_1_ui___dialog_1ac9cdd32784421c446d760ea43e0204aa"/><section>
+    <title>clickb()</title>
+<indexterm><primary>clickb</primary><secondary>main.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>main.Ui_Dialog</primary><secondary>clickb</secondary></indexterm>
+<para><computeroutput>main.Ui_Dialog.clickb ( self)</computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classmain_1_1_ui___dialog_ac9cdd32784421c446d760ea43e0204aa_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classmain_1_1_ui___dialog_1a7b7af403e995ca070e1f550a6b4a043d"/><section>
+    <title>main()</title>
+<indexterm><primary>main</primary><secondary>main.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>main.Ui_Dialog</primary><secondary>main</secondary></indexterm>
+<para><computeroutput>main.Ui_Dialog.main ( self)</computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classmain_1_1_ui___dialog_a7b7af403e995ca070e1f550a6b4a043d_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classmain_1_1_ui___dialog_1a2343cfa2a6482f319e9612486cce02c2"/><section>
+    <title>retranslateUi()</title>
+<indexterm><primary>retranslateUi</primary><secondary>main.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>main.Ui_Dialog</primary><secondary>retranslateUi</secondary></indexterm>
+<para><computeroutput>main.Ui_Dialog.retranslateUi ( self,  Dialog)</computeroutput></para></section>
+<anchor xml:id="_classmain_1_1_ui___dialog_1a2d82bfc40a6694b1811e00173b4c44cb"/><section>
+    <title>setupUi()</title>
+<indexterm><primary>setupUi</primary><secondary>main.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>main.Ui_Dialog</primary><secondary>setupUi</secondary></indexterm>
+<para><computeroutput>main.Ui_Dialog.setupUi ( self,  Dialog)</computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classmain_1_1_ui___dialog_a2d82bfc40a6694b1811e00173b4c44cb_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classmain_1_1_ui___dialog_1a33d7926bf87224da48e21fd533f80a69"/><section>
+    <title>a</title>
+<indexterm><primary>a</primary><secondary>main.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>main.Ui_Dialog</primary><secondary>a</secondary></indexterm>
+<para><computeroutput>main.Ui_Dialog.a</computeroutput></para></section>
+<anchor xml:id="_classmain_1_1_ui___dialog_1a3d1fe5e8623c5c5e963cda875142d645"/><section>
+    <title>clicka</title>
+<indexterm><primary>clicka</primary><secondary>main.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>main.Ui_Dialog</primary><secondary>clicka</secondary></indexterm>
+<para><computeroutput>main.Ui_Dialog.clicka</computeroutput></para></section>
+<anchor xml:id="_classmain_1_1_ui___dialog_1aa1122a67802b77ad92319bca18aad46f"/><section>
+    <title>clickb</title>
+<indexterm><primary>clickb</primary><secondary>main.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>main.Ui_Dialog</primary><secondary>clickb</secondary></indexterm>
+<para><computeroutput>main.Ui_Dialog.clickb</computeroutput></para></section>
+<anchor xml:id="_classmain_1_1_ui___dialog_1a8a8b2e7d4a1f30631208a411434fc0be"/><section>
+    <title>label</title>
+<indexterm><primary>label</primary><secondary>main.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>main.Ui_Dialog</primary><secondary>label</secondary></indexterm>
+<para><computeroutput>main.Ui_Dialog.label</computeroutput></para></section>
+<anchor xml:id="_classmain_1_1_ui___dialog_1a031df8bf49ebf6b06bc000714e2ddddb"/><section>
+    <title>mainwin</title>
+<indexterm><primary>mainwin</primary><secondary>main.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>main.Ui_Dialog</primary><secondary>mainwin</secondary></indexterm>
+<para><computeroutput>main.Ui_Dialog.mainwin</computeroutput></para></section>
+<anchor xml:id="_classmain_1_1_ui___dialog_1a4583aa42cd4753b5faa1e3559f3389f9"/><section>
+    <title>pushButton</title>
+<indexterm><primary>pushButton</primary><secondary>main.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>main.Ui_Dialog</primary><secondary>pushButton</secondary></indexterm>
+<para><computeroutput>main.Ui_Dialog.pushButton</computeroutput></para></section>
+<anchor xml:id="_classmain_1_1_ui___dialog_1af5359d6e4ecbabd6bb0c4c572851e617"/><section>
+    <title>pushButton_2</title>
+<indexterm><primary>pushButton_2</primary><secondary>main.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>main.Ui_Dialog</primary><secondary>pushButton_2</secondary></indexterm>
+<para><computeroutput>main.Ui_Dialog.pushButton_2</computeroutput></para></section>
+<anchor xml:id="_classmain_1_1_ui___dialog_1af722307866606b96e3d7fa314f02497b"/><section>
+    <title>ui</title>
+<indexterm><primary>ui</primary><secondary>main.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>main.Ui_Dialog</primary><secondary>ui</secondary></indexterm>
+<para><computeroutput>main.Ui_Dialog.ui</computeroutput></para></section>
+<para>
+The documentation for this class was generated from the following file:</para>
+<link linkend="_main_8py">main.py</link></section>
+</section>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="namespacemain_page" kind="namespace" language="Python">
+    <compoundname>mainPage</compoundname>
+    <innerclass refid="classmain_page_1_1_ui___dialog" prot="public">mainPage::Ui_Dialog</innerclass>
+    <sectiondef kind="var">
+      <memberdef kind="variable" id="namespacemain_page_1a59c528ccbfa1cafee83e74ff92a8e655" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>mainPage.C</definition>
+        <argsstring></argsstring>
+        <name>C</name>
+        <qualifiedname>mainPage.C</qualifiedname>
+        <initializer>:\Users\nehat\Desktop\</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="mainPage.py" line="2" column="1" bodyfile="mainPage.py" bodystart="2" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="func">
+      <memberdef kind="function" id="namespacemain_page_1ad7a960bd550b92350b6620939a091758" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>mainPage.init</definition>
+        <argsstring>()</argsstring>
+        <name>init</name>
+        <qualifiedname>mainPage.init</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="mainPage.py" line="54" column="1" bodyfile="mainPage.py" bodystart="54" bodyend="66"/>
+        <references refid="namespacemain_page_1ad7a960bd550b92350b6620939a091758" compoundref="main_page_8py" startline="54" endline="66">init</references>
+        <referencedby refid="namespacemain_page_1ad7a960bd550b92350b6620939a091758" compoundref="main_page_8py" startline="54" endline="66">init</referencedby>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="mainPage.py" line="1" column="1"/>
+  </compounddef>
+</doxygen>

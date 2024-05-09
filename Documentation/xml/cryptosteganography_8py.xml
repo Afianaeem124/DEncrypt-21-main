@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="cryptosteganography_8py" kind="file" language="Python">
+    <compoundname>cryptosteganography.py</compoundname>
+    <innerclass refid="classcryptosteganography_1_1_crypto_steganography" prot="public">cryptosteganography::CryptoSteganography</innerclass>
+    <innernamespace refid="namespacecryptosteganography">cryptosteganography</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1" refid="namespacecryptosteganography" refkind="compound"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2" refid="namespacecryptosteganography_1a38f20207f86c2044eb6343acaffa6fd8" refkind="member"><highlight class="normal">C:\Users\nehat\Desktop\</highlight><highlight class="comment">#cryptoProject\DEncrypt-21-main&gt;doxypypy<sp/>-a<sp/>-c<sp/>&quot;C:/Users/nehat/Desktop/#cryptoProject/DEncrypt-21-main/cryptosteganography.py&quot;<sp/></highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="keyword">import</highlight><highlight class="normal"><sp/>base64</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">import</highlight><highlight class="normal"><sp/>hashlib</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="keyword">from</highlight><highlight class="normal"><sp/>Cryptodome<sp/></highlight><highlight class="keyword">import</highlight><highlight class="normal"><sp/>Random</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"></highlight><highlight class="keyword">from</highlight><highlight class="normal"><sp/>Cryptodome.Cipher<sp/></highlight><highlight class="keyword">import</highlight><highlight class="normal"><sp/>AES</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"></highlight><highlight class="keyword">from</highlight><highlight class="normal"><sp/>Cryptodome.Util.Padding<sp/></highlight><highlight class="keyword">import</highlight><highlight class="normal"><sp/>pad,<sp/>unpad</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"></highlight><highlight class="keyword">from</highlight><highlight class="normal"><sp/>stegano<sp/></highlight><highlight class="keyword">import</highlight><highlight class="normal"><sp/>lsb</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal">__author__<sp/>=<sp/></highlight><highlight class="stringliteral">&apos;computationalcore@gmail.com&apos;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight></codeline>
+<codeline lineno="17" refid="classcryptosteganography_1_1_crypto_steganography" refkind="compound"><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="classcryptosteganography_1_1_crypto_steganography" kindref="compound">CryptoSteganography</ref>():</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight></codeline>
+<codeline lineno="23" refid="classcryptosteganography_1_1_crypto_steganography_1ad51874f41e9a93c65d37e98a2c95523e" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">def<sp/></highlight><highlight class="normal"><ref refid="classcryptosteganography_1_1_crypto_steganography_1ad51874f41e9a93c65d37e98a2c95523e" kindref="member">__init__</ref>(self,<sp/>key):</highlight></codeline>
+<codeline lineno="24" refid="classcryptosteganography_1_1_crypto_steganography_1a82e227a4c9aaba03c0f92cf9f330d55e" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>self.<ref refid="classcryptosteganography_1_1_crypto_steganography_1a82e227a4c9aaba03c0f92cf9f330d55e" kindref="member">block_size</ref><sp/>=<sp/>32</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">#<sp/>Create<sp/>a<sp/>sha256<sp/>hash<sp/>from<sp/>the<sp/>informed<sp/>string<sp/>key</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="26" refid="classcryptosteganography_1_1_crypto_steganography_1acc6959cbd9586e95137b0a5f50d0bcfa" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>self.<ref refid="classcryptosteganography_1_1_crypto_steganography_1acc6959cbd9586e95137b0a5f50d0bcfa" kindref="member">key</ref><sp/>=<sp/>hashlib.sha256(key.encode()).digest()</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="34"><highlight class="normal"></highlight></codeline>
+<codeline lineno="35" refid="classcryptosteganography_1_1_crypto_steganography_1a70c1dfcaaf5d9e7bd844644750ea77a1" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">def<sp/></highlight><highlight class="normal"><ref refid="classcryptosteganography_1_1_crypto_steganography_1a70c1dfcaaf5d9e7bd844644750ea77a1" kindref="member">hide</ref>(self,<sp/>input_filename,<sp/>output_filename,<sp/>data):</highlight></codeline>
+<codeline lineno="36"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">#<sp/>Generate<sp/>a<sp/>random<sp/>initialization<sp/>vector</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>iv<sp/>=<sp/>Random.new().read(AES.block_size)</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>encryption_suite<sp/>=<sp/>AES.new(self.<ref refid="classcryptosteganography_1_1_crypto_steganography_1acc6959cbd9586e95137b0a5f50d0bcfa" kindref="member">key</ref>,<sp/>AES.MODE_CBC,<sp/>iv)</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"></highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">#<sp/>If<sp/>it<sp/>is<sp/>string<sp/>convert<sp/>to<sp/>byte<sp/>string<sp/>before<sp/>use<sp/>it</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>isinstance(data,<sp/>str):</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>data<sp/>=<sp/>data.encode()</highlight></codeline>
+<codeline lineno="43"><highlight class="normal"></highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">#<sp/>Encrypt<sp/>the<sp/>random<sp/>initialization<sp/>vector<sp/>concatenated</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">#<sp/>with<sp/>the<sp/>padded<sp/>data</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="46"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>cypher_data<sp/>=<sp/>encryption_suite.encrypt(iv<sp/>+<sp/>pad(data,<sp/>self.<ref refid="classcryptosteganography_1_1_crypto_steganography_1a82e227a4c9aaba03c0f92cf9f330d55e" kindref="member">block_size</ref>))</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"></highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">#<sp/>Convert<sp/>the<sp/>cypher<sp/>byte<sp/>string<sp/>to<sp/>a<sp/>base64<sp/>string<sp/>to<sp/>avoid</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="49"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">#<sp/>decode<sp/>padding<sp/>error</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="50"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>cypher_data<sp/>=<sp/>base64.b64encode(cypher_data).decode()</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"></highlight></codeline>
+<codeline lineno="52"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">#<sp/>Hide<sp/>the<sp/>encrypted<sp/>message<sp/>in<sp/>the<sp/>image<sp/>with<sp/>the<sp/>LSB</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="53"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">#<sp/>(Least<sp/>Significant<sp/>Bit)<sp/>technique.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="54"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>secret<sp/>=<sp/>lsb.hide(input_filename,<sp/>cypher_data)</highlight></codeline>
+<codeline lineno="55"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">#<sp/>Save<sp/>the<sp/>image<sp/>file</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="56"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>secret.save(output_filename)</highlight></codeline>
+<codeline lineno="57"><highlight class="normal"></highlight></codeline>
+<codeline lineno="58"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="62"><highlight class="normal"></highlight></codeline>
+<codeline lineno="63" refid="classcryptosteganography_1_1_crypto_steganography_1a04431e2e2e63aa383b55686404ce20f2" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">def<sp/></highlight><highlight class="normal"><ref refid="classcryptosteganography_1_1_crypto_steganography_1a04431e2e2e63aa383b55686404ce20f2" kindref="member">retrieve</ref>(self,<sp/>input_image_file):</highlight></codeline>
+<codeline lineno="64"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>cypher_data<sp/>=<sp/>lsb.reveal(input_image_file)</highlight></codeline>
+<codeline lineno="65"><highlight class="normal"></highlight></codeline>
+<codeline lineno="66"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordflow">not</highlight><highlight class="normal"><sp/>cypher_data:</highlight></codeline>
+<codeline lineno="67"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">None</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="68"><highlight class="normal"></highlight></codeline>
+<codeline lineno="69"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>cypher_data<sp/>=<sp/>base64.b64decode(cypher_data)</highlight></codeline>
+<codeline lineno="70"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">#<sp/>Retrieve<sp/>the<sp/>dynamic<sp/>initialization<sp/>vector<sp/>saved</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="71"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>iv<sp/>=<sp/>cypher_data[:AES.block_size]</highlight></codeline>
+<codeline lineno="72"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">#<sp/>Retrieved<sp/>the<sp/>cypher<sp/>data</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="73"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>cypher_data<sp/>=<sp/>cypher_data[AES.block_size:]</highlight></codeline>
+<codeline lineno="74"><highlight class="normal"></highlight></codeline>
+<codeline lineno="75"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">try</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="76"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>decryption_suite<sp/>=<sp/>AES.new(self.<ref refid="classcryptosteganography_1_1_crypto_steganography_1acc6959cbd9586e95137b0a5f50d0bcfa" kindref="member">key</ref>,<sp/>AES.MODE_CBC,<sp/>iv)</highlight></codeline>
+<codeline lineno="77"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>decrypted_data<sp/>=<sp/>unpad(</highlight></codeline>
+<codeline lineno="78"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>decryption_suite.decrypt(cypher_data),</highlight></codeline>
+<codeline lineno="79"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>self.<ref refid="classcryptosteganography_1_1_crypto_steganography_1a82e227a4c9aaba03c0f92cf9f330d55e" kindref="member">block_size</ref></highlight></codeline>
+<codeline lineno="80"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>)</highlight></codeline>
+<codeline lineno="81"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">try</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="82"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>decrypted_data.decode(</highlight><highlight class="stringliteral">&apos;utf-8&apos;</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="83"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">except</highlight><highlight class="normal"><sp/>UnicodeDecodeError:</highlight></codeline>
+<codeline lineno="84"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">#<sp/>Binary<sp/>data<sp/>-<sp/>returns<sp/>as<sp/>it<sp/>is</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="85"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>decrypted_data</highlight></codeline>
+<codeline lineno="86"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">except</highlight><highlight class="normal"><sp/>ValueError:</highlight></codeline>
+<codeline lineno="87"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">None</highlight><highlight class="normal"></highlight></codeline>
+    </programlisting>
+    <location file="cryptosteganography.py"/>
+  </compounddef>
+</doxygen>

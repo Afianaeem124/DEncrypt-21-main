@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<book xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_index" xml:lang="en-US">
+    <info>
+    <title>Cryptography Project</title>
+    </info>
+<chapter>
+    <title>Namespace Documentation</title>
+<xi:include href="namespacecryptosteganography.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+<xi:include href="namespace_image2_text_enc.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+<xi:include href="namespacemain.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+<xi:include href="namespacemain_page.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+<xi:include href="namespace_text2_image_enc.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+</chapter>
+<chapter>
+    <title>Class Documentation</title>
+    <xi:include href="classcryptosteganography_1_1_crypto_steganography.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="class_image2_text_enc_1_1_ui___dialog.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classmain_1_1_ui___dialog.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classmain_page_1_1_ui___dialog.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="class_text2_image_enc_1_1_ui___dialog.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+</chapter>
+<chapter>
+    <title>File Documentation</title>
+    <xi:include href="cryptosteganography_8py.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_image2_text_enc_8py.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="main_8py.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="main_page_8py.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_text2_image_enc_8py.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+</chapter>
+<index/>
+</book>

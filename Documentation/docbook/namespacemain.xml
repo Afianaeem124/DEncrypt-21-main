@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_namespacemain" xml:lang="en-US">
+<title>main Namespace Reference</title>
+<indexterm><primary>main</primary></indexterm>
+<simplesect>
+    <title>Classes    </title>
+        <itemizedlist>
+            <listitem><para>class <link linkend="_classmain_1_1_ui___dialog">Ui_Dialog</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Variables    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_namespacemain_1a7faedeeeba7202a53c1ac5b359c7b35a">C</link> :\Users\nehat\Desktop\</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Variable Documentation</title>
+<anchor xml:id="_namespacemain_1a7faedeeeba7202a53c1ac5b359c7b35a"/><section>
+    <title>C</title>
+<indexterm><primary>C</primary><secondary>main</secondary></indexterm>
+<indexterm><primary>main</primary><secondary>C</secondary></indexterm>
+<para><computeroutput>main.C :\Users\nehat\Desktop\</computeroutput></para></section>
+</section>
+</section>

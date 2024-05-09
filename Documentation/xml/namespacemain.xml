@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="namespacemain" kind="namespace" language="Python">
+    <compoundname>main</compoundname>
+    <innerclass refid="classmain_1_1_ui___dialog" prot="public">main::Ui_Dialog</innerclass>
+    <sectiondef kind="var">
+      <memberdef kind="variable" id="namespacemain_1a7faedeeeba7202a53c1ac5b359c7b35a" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>main.C</definition>
+        <argsstring></argsstring>
+        <name>C</name>
+        <qualifiedname>main.C</qualifiedname>
+        <initializer>:\Users\nehat\Desktop\</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="main.py" line="2" column="1" bodyfile="main.py" bodystart="2" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="main.py" line="1" column="1"/>
+  </compounddef>
+</doxygen>

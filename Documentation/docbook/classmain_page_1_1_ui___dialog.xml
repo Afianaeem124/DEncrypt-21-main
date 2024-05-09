@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classmain_page_1_1_ui___dialog" xml:lang="en-US">
+<title>mainPage.Ui_Dialog Class Reference</title>
+<indexterm><primary>mainPage.Ui_Dialog</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classmain_page_1_1_ui___dialog_1a2216f4e1360d6b4c40ad7bc791db09f8">__init__</link> (self, <link linkend="_classmain_page_1_1_ui___dialog_1a245859fa912bb7feb133463264d74ce9">a</link>)</para>
+</listitem>
+            <listitem><para><link linkend="_classmain_page_1_1_ui___dialog_1a3f92ed0c6dd8b08fc699730b90b717da">setupUi</link> (self, Dialog)</para>
+</listitem>
+            <listitem><para><link linkend="_classmain_page_1_1_ui___dialog_1a565932d66139767be7b61862d0038402">retranslateUi</link> (self, Dialog)</para>
+</listitem>
+            <listitem><para><link linkend="_classmain_page_1_1_ui___dialog_1a4c5e1bed704bf2257319ae7a0248bedb">main</link> (self)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classmain_page_1_1_ui___dialog_1a245859fa912bb7feb133463264d74ce9">a</link></para>
+</listitem>
+            <listitem><para><link linkend="_classmain_page_1_1_ui___dialog_1a6224a0c3506e2d4926f08842b882122c">label</link></para>
+</listitem>
+            <listitem><para><link linkend="_classmain_page_1_1_ui___dialog_1a11a59f353044df95689a04ab64468b4a">pushButton</link></para>
+</listitem>
+            <listitem><para><link linkend="_classmain_page_1_1_ui___dialog_1ab205b7cb3c743b75696e96f0a557855b">main</link></para>
+</listitem>
+            <listitem><para><link linkend="_classmain_page_1_1_ui___dialog_1ac5169cb1aac510aee9e66c7fcde602af">mainwin</link></para>
+</listitem>
+            <listitem><para><link linkend="_classmain_page_1_1_ui___dialog_1a93ddaf93b25e43c8c8901663feb8b65c">ui</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classmain_page_1_1_ui___dialog_1a2216f4e1360d6b4c40ad7bc791db09f8"/><section>
+    <title>__init__()</title>
+<indexterm><primary>__init__</primary><secondary>mainPage.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>mainPage.Ui_Dialog</primary><secondary>__init__</secondary></indexterm>
+<para><computeroutput>mainPage.Ui_Dialog.__init__ ( self,  a)</computeroutput></para></section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classmain_page_1_1_ui___dialog_1a4c5e1bed704bf2257319ae7a0248bedb"/><section>
+    <title>main()</title>
+<indexterm><primary>main</primary><secondary>mainPage.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>mainPage.Ui_Dialog</primary><secondary>main</secondary></indexterm>
+<para><computeroutput>mainPage.Ui_Dialog.main ( self)</computeroutput></para></section>
+<anchor xml:id="_classmain_page_1_1_ui___dialog_1a565932d66139767be7b61862d0038402"/><section>
+    <title>retranslateUi()</title>
+<indexterm><primary>retranslateUi</primary><secondary>mainPage.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>mainPage.Ui_Dialog</primary><secondary>retranslateUi</secondary></indexterm>
+<para><computeroutput>mainPage.Ui_Dialog.retranslateUi ( self,  Dialog)</computeroutput></para></section>
+<anchor xml:id="_classmain_page_1_1_ui___dialog_1a3f92ed0c6dd8b08fc699730b90b717da"/><section>
+    <title>setupUi()</title>
+<indexterm><primary>setupUi</primary><secondary>mainPage.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>mainPage.Ui_Dialog</primary><secondary>setupUi</secondary></indexterm>
+<para><computeroutput>mainPage.Ui_Dialog.setupUi ( self,  Dialog)</computeroutput></para></section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classmain_page_1_1_ui___dialog_1a245859fa912bb7feb133463264d74ce9"/><section>
+    <title>a</title>
+<indexterm><primary>a</primary><secondary>mainPage.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>mainPage.Ui_Dialog</primary><secondary>a</secondary></indexterm>
+<para><computeroutput>mainPage.Ui_Dialog.a</computeroutput></para></section>
+<anchor xml:id="_classmain_page_1_1_ui___dialog_1a6224a0c3506e2d4926f08842b882122c"/><section>
+    <title>label</title>
+<indexterm><primary>label</primary><secondary>mainPage.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>mainPage.Ui_Dialog</primary><secondary>label</secondary></indexterm>
+<para><computeroutput>mainPage.Ui_Dialog.label</computeroutput></para></section>
+<anchor xml:id="_classmain_page_1_1_ui___dialog_1ab205b7cb3c743b75696e96f0a557855b"/><section>
+    <title>main</title>
+<indexterm><primary>main</primary><secondary>mainPage.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>mainPage.Ui_Dialog</primary><secondary>main</secondary></indexterm>
+<para><computeroutput>mainPage.Ui_Dialog.main</computeroutput></para></section>
+<anchor xml:id="_classmain_page_1_1_ui___dialog_1ac5169cb1aac510aee9e66c7fcde602af"/><section>
+    <title>mainwin</title>
+<indexterm><primary>mainwin</primary><secondary>mainPage.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>mainPage.Ui_Dialog</primary><secondary>mainwin</secondary></indexterm>
+<para><computeroutput>mainPage.Ui_Dialog.mainwin</computeroutput></para></section>
+<anchor xml:id="_classmain_page_1_1_ui___dialog_1a11a59f353044df95689a04ab64468b4a"/><section>
+    <title>pushButton</title>
+<indexterm><primary>pushButton</primary><secondary>mainPage.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>mainPage.Ui_Dialog</primary><secondary>pushButton</secondary></indexterm>
+<para><computeroutput>mainPage.Ui_Dialog.pushButton</computeroutput></para></section>
+<anchor xml:id="_classmain_page_1_1_ui___dialog_1a93ddaf93b25e43c8c8901663feb8b65c"/><section>
+    <title>ui</title>
+<indexterm><primary>ui</primary><secondary>mainPage.Ui_Dialog</secondary></indexterm>
+<indexterm><primary>mainPage.Ui_Dialog</primary><secondary>ui</secondary></indexterm>
+<para><computeroutput>mainPage.Ui_Dialog.ui</computeroutput></para></section>
+<para>
+The documentation for this class was generated from the following file:</para>
+<link linkend="_main_page_8py">mainPage.py</link></section>
+</section>

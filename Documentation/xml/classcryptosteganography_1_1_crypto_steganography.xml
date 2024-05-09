@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classcryptosteganography_1_1_crypto_steganography" kind="class" language="Python" prot="public">
+    <compoundname>cryptosteganography::CryptoSteganography</compoundname>
+    <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classcryptosteganography_1_1_crypto_steganography_1a82e227a4c9aaba03c0f92cf9f330d55e" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>cryptosteganography.CryptoSteganography::block_size</definition>
+        <argsstring></argsstring>
+        <name>block_size</name>
+        <qualifiedname>cryptosteganography.CryptoSteganography.block_size</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="cryptosteganography.py" line="24" column="1" bodyfile="cryptosteganography.py" bodystart="24" bodyend="-1"/>
+        <referencedby refid="classcryptosteganography_1_1_crypto_steganography_1a70c1dfcaaf5d9e7bd844644750ea77a1" compoundref="cryptosteganography_8py" startline="35" endline="57">cryptosteganography.CryptoSteganography.hide</referencedby>
+        <referencedby refid="classcryptosteganography_1_1_crypto_steganography_1a04431e2e2e63aa383b55686404ce20f2" compoundref="cryptosteganography_8py" startline="63" endline="88">cryptosteganography.CryptoSteganography.retrieve</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classcryptosteganography_1_1_crypto_steganography_1acc6959cbd9586e95137b0a5f50d0bcfa" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>cryptosteganography.CryptoSteganography::key</definition>
+        <argsstring></argsstring>
+        <name>key</name>
+        <qualifiedname>cryptosteganography.CryptoSteganography.key</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="cryptosteganography.py" line="26" column="1" bodyfile="cryptosteganography.py" bodystart="26" bodyend="-1"/>
+        <referencedby refid="classcryptosteganography_1_1_crypto_steganography_1a70c1dfcaaf5d9e7bd844644750ea77a1" compoundref="cryptosteganography_8py" startline="35" endline="57">cryptosteganography.CryptoSteganography.hide</referencedby>
+        <referencedby refid="classcryptosteganography_1_1_crypto_steganography_1a04431e2e2e63aa383b55686404ce20f2" compoundref="cryptosteganography_8py" startline="63" endline="88">cryptosteganography.CryptoSteganography.retrieve</referencedby>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcryptosteganography_1_1_crypto_steganography_1ad51874f41e9a93c65d37e98a2c95523e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>cryptosteganography.CryptoSteganography.__init__</definition>
+        <argsstring>(self, key)</argsstring>
+        <name>__init__</name>
+        <qualifiedname>cryptosteganography.CryptoSteganography.__init__</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type><ref refid="classcryptosteganography_1_1_crypto_steganography_1acc6959cbd9586e95137b0a5f50d0bcfa" kindref="member">key</ref></type>
+          <defname>key</defname>
+        </param>
+        <briefdescription>
+<para>Constructor. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>key</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>string that used to derive the key </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="cryptosteganography.py" line="23" column="1" bodyfile="cryptosteganography.py" bodystart="23" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classcryptosteganography_1_1_crypto_steganography_1a70c1dfcaaf5d9e7bd844644750ea77a1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>cryptosteganography.CryptoSteganography.hide</definition>
+        <argsstring>(self, input_filename, output_filename, data)</argsstring>
+        <name>hide</name>
+        <qualifiedname>cryptosteganography.CryptoSteganography.hide</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type>input_filename</type>
+          <defname>input_filename</defname>
+        </param>
+        <param>
+          <type>output_filename</type>
+          <defname>output_filename</defname>
+        </param>
+        <param>
+          <type>data</type>
+          <defname>data</defname>
+        </param>
+        <briefdescription>
+<para>Encrypt and save the data inside the image. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>input_filename</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Input image file path </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>output_filename</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Output image file path </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>data</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Information to be encrypted and saved :return: </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="cryptosteganography.py" line="35" column="1" bodyfile="cryptosteganography.py" bodystart="35" bodyend="57"/>
+        <references refid="classcryptosteganography_1_1_crypto_steganography_1a82e227a4c9aaba03c0f92cf9f330d55e" compoundref="cryptosteganography_8py" startline="24">cryptosteganography.CryptoSteganography.block_size</references>
+        <references refid="classcryptosteganography_1_1_crypto_steganography_1acc6959cbd9586e95137b0a5f50d0bcfa" compoundref="cryptosteganography_8py" startline="26">cryptosteganography.CryptoSteganography.key</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a9ec5e3190b723f1d8ecc9a5dad4f9883" compoundref="_image2_text_enc_8py" startline="211">Image2TextEnc.Ui_Dialog.key</references>
+      </memberdef>
+      <memberdef kind="function" id="classcryptosteganography_1_1_crypto_steganography_1a04431e2e2e63aa383b55686404ce20f2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>cryptosteganography.CryptoSteganography.retrieve</definition>
+        <argsstring>(self, input_image_file)</argsstring>
+        <name>retrieve</name>
+        <qualifiedname>cryptosteganography.CryptoSteganography.retrieve</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <param>
+          <type>input_image_file</type>
+          <defname>input_image_file</defname>
+        </param>
+        <briefdescription>
+<para>Retrieve the encrypted data from the image. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>input_image_file</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Input image file path :return: </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="cryptosteganography.py" line="63" column="1" bodyfile="cryptosteganography.py" bodystart="63" bodyend="88"/>
+        <references refid="classcryptosteganography_1_1_crypto_steganography_1a82e227a4c9aaba03c0f92cf9f330d55e" compoundref="cryptosteganography_8py" startline="24">cryptosteganography.CryptoSteganography.block_size</references>
+        <references refid="classcryptosteganography_1_1_crypto_steganography_1acc6959cbd9586e95137b0a5f50d0bcfa" compoundref="cryptosteganography_8py" startline="26">cryptosteganography.CryptoSteganography.key</references>
+        <references refid="class_image2_text_enc_1_1_ui___dialog_1a9ec5e3190b723f1d8ecc9a5dad4f9883" compoundref="_image2_text_enc_8py" startline="211">Image2TextEnc.Ui_Dialog.key</references>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+<para>Main class to handle Steganography encrypted data. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="cryptosteganography.py" line="17" column="1" bodyfile="cryptosteganography.py" bodystart="17" bodyend="88"/>
+    <listofallmembers>
+      <member refid="classcryptosteganography_1_1_crypto_steganography_1ad51874f41e9a93c65d37e98a2c95523e" prot="public" virt="non-virtual"><scope>cryptosteganography::CryptoSteganography</scope><name>__init__</name></member>
+      <member refid="classcryptosteganography_1_1_crypto_steganography_1a82e227a4c9aaba03c0f92cf9f330d55e" prot="public" virt="non-virtual"><scope>cryptosteganography::CryptoSteganography</scope><name>block_size</name></member>
+      <member refid="classcryptosteganography_1_1_crypto_steganography_1a70c1dfcaaf5d9e7bd844644750ea77a1" prot="public" virt="non-virtual"><scope>cryptosteganography::CryptoSteganography</scope><name>hide</name></member>
+      <member refid="classcryptosteganography_1_1_crypto_steganography_1acc6959cbd9586e95137b0a5f50d0bcfa" prot="public" virt="non-virtual"><scope>cryptosteganography::CryptoSteganography</scope><name>key</name></member>
+      <member refid="classcryptosteganography_1_1_crypto_steganography_1a04431e2e2e63aa383b55686404ce20f2" prot="public" virt="non-virtual"><scope>cryptosteganography::CryptoSteganography</scope><name>retrieve</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

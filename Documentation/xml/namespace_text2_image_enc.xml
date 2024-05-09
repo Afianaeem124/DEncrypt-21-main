@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="namespace_text2_image_enc" kind="namespace" language="Python">
+    <compoundname>Text2ImageEnc</compoundname>
+    <innerclass refid="class_text2_image_enc_1_1_ui___dialog" prot="public">Text2ImageEnc::Ui_Dialog</innerclass>
+    <sectiondef kind="var">
+      <memberdef kind="variable" id="namespace_text2_image_enc_1a55c69da55bb4e9b4ab59448d94758156" prot="public" static="no" mutable="no">
+        <type></type>
+        <definition>Text2ImageEnc.C</definition>
+        <argsstring></argsstring>
+        <name>C</name>
+        <qualifiedname>Text2ImageEnc.C</qualifiedname>
+        <initializer>:\Users\nehat\Desktop\</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Text2ImageEnc.py" line="2" column="1" bodyfile="Text2ImageEnc.py" bodystart="2" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Text2ImageEnc.py" line="1" column="1"/>
+  </compounddef>
+</doxygen>
